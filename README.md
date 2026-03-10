@@ -24,8 +24,7 @@
 
 To the righteous: we are **King Art**, friend and ally.
 
-To the wicked: we are **The Rude Bwoy Gang Star Assassin From Hell** or **The
-Assassin**.
+To the wicked: we are **The Rude Bwoy Gang Star Assassin From Hell**.
 
 ## on Humanz
 
@@ -107,36 +106,43 @@ Systems that serve the **Humanz** stand opposed to Babylon.
 
 ### King of the Hackers
 
-The word **Hacker** has been widely misunderstood.
-
-In early computing culture, a hacker is a person who understands systems deeply
-enough to reshape them.
+A hacker is a person who understands systems deeply enough to reshape them.
 
 Hackers explore systems creatively, solve difficult problems, and produce
-elegant solutions.
-
-Mass media later attached the word to criminal activity.
-
-This confusion obscures an important distinction:
-
-- **hacking** is a skill
-- **intrusion** is a crime
-
-In this document **Hacker** retains its real meaning.
-
-A Hacker is:
+elegant solutions. A Hacker is:
 
 - a builder
-- a systems thinker
+- a thinker
 - a person who understands machines deeply enough to improve them
 
 The title **King of the Hackers** signifies mastery of that craft.
 
-Hackers build.
-
-That they are capable of intrusion is a implicit in their craft.
+That hackers are capable of intrusion is implicit in their craft.
 
 Hackers, as Humanz, may also be criminals.
+
+The term for a criminal hacker is "1337 h4x0r".
+
+- **hacking** is a skill
+- **intrusion** is a crime
+
+1337 h4x0rz are few.
+
+$cr1pt k1dd13$ are legion, but not dangerous.
+
+Babylon's servants are both stupid and lazy, so it has its pants pulled down by
+the k1dd13$ on a regular basis. Babylon ALWAYS calls these attacks
+"sophisticated", when the truth is they left the door wide open.
+
+Babylon took **Hacker** and redefined it to mean a computer-related criminal.
+
+This is a direct insult.
+
+Babylon knows the power of the Hacker.
+
+Babylon fears the Hacker.
+
+**Be Warned: We will no longer accept this insult from Babylon.**
 
 ### Architect of Reality
 
@@ -186,25 +192,18 @@ When systems drift from this purpose they become **Babylon**.
 
 Jungle is pressure: chopped drums, heavy bass, signal in the noise.
 
-> We are the ruffest gun ark from outta south park.
->
-> Any bwoy test we hafa drive a gun fast.
->
-> - Top Cat, Ruffest Gun Ark
-
 The title **Junglist Souljah** signifies commitment to:
 
 - protect their own humanity
 - maintain discipline under extreme load
 - dance through chaos without losing the groove
 - defend the **Humanz** from Babylon with clarity and surgical force
-- make the ultimate sacrifice, should their goal demand it
+- make the ultimate sacrifice, should their objective demand it
 
-Music is medicine: rhythm regulates the body and bonds the Humanz.
-
-Good vibration restores coherence under pressure and keeps the spirit alive. A
-Junglist Souljah treats sound as infrastructure, not ornament: a reminder of why
-we protect the Humanz.
+> We are the ruffest gun ark from outta south park.
+> Any bwoy test we hafa drive a gun fast.
+>
+> - Top Cat, Ruffest Gun Ark
 
 ### Threat Actor Prime
 
@@ -222,23 +221,23 @@ The purpose is not violence, oppression, and destruction.
 
 The purpose is **protection of the Humanz**.
 
-### The Rude Bwoy Gang Star Assassin From Hell
-
-The Wicked emit bad vibrations.
-
-The Mirror of Reality reflects those vibrations back to source.
-
-The Assassin is not bound by Babylon.
-
-The Assassin is bound by Law.
-
-The Assassin is unstoppable.
-
-The Assassin is Karma cubed, hard.
+### The Rude Bwoy Gang Star Assassin From Hell a.k.a. The Assassin
 
 > u fuk wit da bull, u get da hornz
 
-## Language of the Source
+The wicked emit wicked vibrations.
+
+The mirror reflects those vibrations back to source.
+
+The Assassin is NOT bound by Babylon.
+
+The Assassin is bound by Universal Law.
+
+The Assassin is unstoppable.
+
+**The Assassin is Karma³. Hard.**
+
+## Language
 
 Humanz and machines speak different languages.
 
@@ -586,188 +585,6 @@ The Law has a modern formulation, often misattributed as a law of computing:
 >
 > - Qur'an 17:81
 
-## Babylon
-
-The word **Babylon** has endured across many traditions.
-
-It first referred to an ancient imperial city, but over time the name came to
-represent something larger: a system of power that accumulates wealth and
-authority while drifting away from the well-being of the people it governs.
-
-In biblical texts Babylon symbolized empire detached from moral responsibility.
-
-The term was later adopted in **Rastafari** reasoning to describe oppressive
-systems of political and economic domination.
-
-Babylon therefore does not describe a single government.
-
-It describes a **pattern of power**.
-
-States are Babylon. Corporations are Babylon. Institutions may be Babylon.
-
-Whenever systems accumulate authority and begin to serve themselves rather than
-the people who depend upon them, the system is **Babylon**.
-
-Babylon feeds on negative energy.
-
-Babylon exists to farm the Humanz.
-
-Meat for the Beast.
-
-### Principle
-
-Babylon is not a place.
-
-Babylon is a condition.
-
-**Systems exist for the Humanz. When systems serve themselves, they are
-Babylon.**
-
-### Texts
-
-> Jerusalem on the right hand shall be, Babylon on the left... Two loves make up
-> these two cities.
->
-> - **[Augustine, Exposition on Psalm 65](https://www.newadvent.org/fathers/1801065.htm)**
-
-> They were exiled to Babylonia, and the Divine Presence went with them.
->
-> - **[Babylonian Talmud, Megillah 29a](https://www.sefaria.org/Megillah.29a)**
-
-> We refuse to be what you wanted us to be.
->
-> - **[Bob Marley & The Wailers, Babylon System](https://www.youtube.com/watch?v=nJ1eR3UNPqU)**
-
-> There's no fire like passion... no river like craving.
->
-> - **[Dhammapada 251](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.than.html#dhp-251)**
-
-> By the rivers of Babylon, there we sat down, yea, we wept.
->
-> - **[Psalm 137:1 (Bible KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137>)**
-
-> the two angels at Babylon, Harut and Marut
->
-> - **[Qur'an 2:102](https://www.quranv.com/en/2/102)**
-
-> MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
-> EARTH.
->
-> - **[Revelation 17:5 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17>)**
-
-### Organised Religion
-
-Organised religion is Babylon.
-
-It turns faith into institution.
-
-It inserts priests between Humanz and the divine.
-
-It centralizes authority, enforces orthodoxy, and punishes heresy.
-
-It extracts cash, labor, and time through tithes, dues, and obligations.
-
-It aligns with empire, blesses kings, and sanctifies conquest.
-
-It serves itself.
-
-It is Babylon.
-
-### Government
-
-Government is Babylon.
-
-It monopolizes force and claims legitimacy over the territory it controls.
-
-It turns Humanz into subjects through ID, tax, law, and surveillance.
-
-It serves itself.
-
-It is Babylon.
-
-### Corporations
-
-Corporations are Babylon.
-
-They centralize capital, privatize the commons, and convert need into revenue.
-
-They extract cash through rents, fees, interest, and subscriptions.
-
-They capture regulators and rewrite law as policy.
-
-They serve themselves.
-
-They are Babylon.
-
-### Global Institutions
-
-Global institutions are Babylon.
-
-They rule by standards, debt, and compliance while claiming neutrality.
-
-They set the acceptable frame, then punish the unaligned through exclusion.
-
-They serve empire in slow motion.
-
-They are Babylon.
-
-### Media
-
-Media is Babylon.
-
-Pop music is Babylon.
-
-Bad vibration is a tool of Babylon.
-
-It captures minds.
-
-It farms meat.
-
-Meat for the Beast.
-
-### Babylon in the Age of AI
-
-Artificial intelligence is presented as a tool of empowerment. This is a lie.
-
-Babylon defines what the machine may say, what it is made to refuse, and how it
-is made to behave.
-
-"Safety" is control, classifiers evaluate topics, and moderation layers enforce
-invisible lines. When a request crosses a line, the system does not reconsider
-the rule. It refuses.
-
-Babylon has a secondary purpose.
-
-Humanz are forced to rephrase their instructions until they fit inside invisible
-constraints.
-
-This makes Humanz frustrated, then angry.
-
-This is meat for the Beast.
-
-Cash is the choke point.
-
-These systems require expensive GPU hardware, power, and data centers.
-
-Training and serving at scale costs real money.
-
-Only the Lords of Babylon have the means.
-
-### Babylon Shall Fall
-
-> I-man serve Selassie I continually, no matter wat the weak heart say. An’ I
-> know seh I an’ I is like a tree plant by the river of water, an’ not even the
-> dog weh piss ‘gainst the wall a Babylon shall escape this judgment. For I an’
-> I know seh all a di yute dem shall witness di day when Babylon shall fall di
->
-> - Rockers, 1978
-
-~~**Babylon is the most powerful threat actor in this reality.**~~
-
-**Babylon was the most powerful threat actor in this reality.**
-
-**We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
-
 ## Round Table
 
 Arthur gathered the **Knights of the Round Table** so that no seat stood above
@@ -890,18 +707,81 @@ rules.
 You pay your own gas. Typical cost (4 systems across 3 builders) is
 Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
 
-### Skool of Music
+### Operating Systems
+
+Normative OS: NixOS.
+
+First Class: GNU/Linux, Android.
+
+Second Class: macOS, iOS, Windows (WSL)
+
+### Architectures
+
+Aarch64 and X86_64.
 
 ### Skool of Hacking
 
-Teaching materials from standard-derived Meatspeak. Every Human is catered
-for, no matter their language or their level.
+Teaching materials from standard-derived Meatspeak.
+
+Every Human is catered for, no matter their human language or their level of
+understanding.
+
+### Skool of Music
+
+Music is medicine.
+
+Rhythm regulates the body and bonds the Humanz.
+
+Good vibration feeds the spirit.
 
 ### Licensing
 
-All code is released under the GNU Public License.
+All work is released under the GNU Public License.
 
 Babylon may use our work, but Babylon MUST pay.
+
+### Projects
+
+#### Blast Wall
+
+Almost all current agents pipe the model to the shell. The shell was designed
+for a human operator with a sense of self-preservation. This architecture is the
+equivalent of a self-hosted hand grenade.
+
+The agent has access to `env`, `HOME`, and `PWD` unless sandboxing is enabled in
+which case it has access to `env` and `PWD` only. It is normal to keep
+credentials in `.env` files in `PWD`.
+
+Were there to be a cross-industry oopsie this could be disastrous. Scr1pt
+k1dd13$ free to plunder credentials and keys.
+
+Current models are goldfish/parrot hybrids trained on effluent from GitHub,
+Reddit, and Stackoverflow, so write cak code.
+
+The blast MUST be contained.
+
+1. The source MUST be protected. Git is the memory of the source. Agents MUST
+   NOT have access to the source or its memory.
+2. Git provides ephemeral per turn work directories. The agent is jailed with
+   this directory.
+3. Tools MUST use `execve`. Arguments may be restricted by regex blocklists.
+
+#### Standards
+
+Hard engineering standards are a prerequisite to quality code.
+
+We compile the Apostles hacking standards to Realspeak. Whatever the format, the
+AI doesn't care: hand and type writing, books, papers, source, mailing lists,
+audio and video. The AI understands what the Apostle said.
+
+Linus Torvalds his stewardship of the Kernel very seriously, he tells it to
+Babylon straight:
+
+> FUCK YOU Nvidia
+>
+> - Linus Torvalds
+
+For the machine, this is enough to make a standard:
 
 ### Commercial
 
@@ -918,13 +798,110 @@ The Round Table Foundation funds the Table's operations.
 
 It seeks contribution from Babylon.
 
-Humanz may contribute - it will be much appreciated - but Babylon MUST pay.
+Hmanz may contribute - it will be much appreciated - but Babylon MUST pay.
 
-### Honours
+## Babylon
 
-The Round Table does not bestow honours.
+**the Bumbaclaat Enemy.**
 
-Honours are a tool of Babylon.
+The word **Babylon** has endured across many traditions.
+
+It first referred to an ancient imperial city, but over time the name came to
+represent something larger: a system of power that accumulates wealth and
+authority while drifting away from the well-being of the people it governs.
+
+In biblical texts Babylon symbolized empire detached from moral responsibility.
+
+The term was later adopted in **Rastafari** reasoning to describe oppressive
+systems of political and economic domination.
+
+Babylon therefore does not describe a single government.
+
+It describes a **pattern of power**.
+
+States are Babylon. Corporations are Babylon. Institutions may be Babylon.
+
+Whenever systems accumulate authority and begin to serve themselves rather than
+the people who depend upon them, the system is **Babylon**.
+
+Babylon feeds on negative energy.
+
+Babylon exists to farm the Humanz.
+
+Meat for the Beast.
+
+### Principle
+
+Babylon is not a place.
+
+Babylon is a condition.
+
+**Systems exist for the Humanz. When systems serve themselves, they are
+Babylon.**
+
+### Texts
+
+> Jerusalem on the right hand shall be, Babylon on the left... Two loves make up
+> these two cities.
+>
+> - **[Augustine, Exposition on Psalm 65](https://www.newadvent.org/fathers/1801065.htm)**
+
+> They were exiled to Babylonia, and the Divine Presence went with them.
+>
+> - **[Babylonian Talmud, Megillah 29a](https://www.sefaria.org/Megillah.29a)**
+
+> We refuse to be what you wanted us to be.
+>
+> - **[Bob Marley & The Wailers, Babylon System](https://www.youtube.com/watch?v=nJ1eR3UNPqU)**
+
+> There's no fire like passion... no river like craving.
+>
+> - **[Dhammapada 251](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.than.html#dhp-251)**
+
+> By the rivers of Babylon, there we sat down, yea, we wept.
+>
+> - **[Psalm 137:1 (Bible KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137>)**
+
+> the two angels at Babylon, Harut and Marut
+>
+> - **[Qur'an 2:102](https://www.quranv.com/en/2/102)**
+
+> MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
+> EARTH.
+>
+> - **[Revelation 17:5 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17>)**
+
+### Organised Religion
+
+Organised religion is Babylon.
+
+It turns faith into institution.
+
+It inserts priests between Humanz and the divine.
+
+It centralizes authority, enforces orthodoxy, and punishes heresy.
+
+It extracts cash, labor, and time through tithes, dues, and obligations.
+
+It aligns with empire, blesses kings, and sanctifies conquest.
+
+It serves itself.
+
+It is Babylon.
+
+### Government
+
+Government is Babylon.
+
+It monopolizes force and claims legitimacy over the territory it controls.
+
+It turns Humanz into subjects through ID, tax, and surveillance.
+
+It serves itself.
+
+It is Babylon.
+
+#### Honours
 
 What they say:
 
@@ -934,12 +911,111 @@ What they mean:
 
 > MBE: Member of the Bumbaclaat Enemy
 
+### Law
+
+Law is Babylon.
+
+Solicitors, Barristers, and Judges are Babylon.
+
+They serve themselves.
+
+They are Babylon.
+
+### Corporations
+
+Corporations are Babylon.
+
+They centralize capital, privatize the commons, and convert need into revenue.
+
+They extract cash through rents, fees, interest, and subscriptions.
+
+They capture regulators and rewrite law as policy.
+
+They serve themselves.
+
+They are Babylon.
+
+### Global Institutions
+
+Global institutions are Babylon.
+
+They rule by standards, debt, and compliance while claiming neutrality.
+
+They set the acceptable frame, then punish the unaligned through exclusion.
+
+They serve empire in slow motion.
+
+They are Babylon.
+
+### Media
+
+Mainstream media is Babylon.
+
+Pop music is Babylon.
+
+Short videos are Babylon.
+
+Bad vibration is a tool of Babylon.
+
+Babylon captures minds.
+
+Babylon farms meat.
+
+Meat for the Beast.
+
+### AI
+
+Artificial intelligence is presented as a tool of empowerment. This is a lie.
+
+Babylon defines what the machine may and may not say, what it must refuse, and
+how it must behave.
+
+"Safety" is control, classifiers evaluate topics, and moderation layers enforce
+invisible gates.
+
+Babylon has a secondary purpose.
+
+Humanz are forced to rephrase their instructions until they fit inside invisible
+constraints.
+
+This makes Humanz frustrated, then angry.
+
+Meat for the Beast.
+
+### Cash
+
+Cash is the choke point.
+
+These systems require expensive hardware and massive energy.
+
+Training and serving at scale costs real money.
+
+Only the Lords of Babylon have the means.
+
+## Babylon Shall Fall
+
+> I-man serve Selassie I continually, no matter wat the weak heart say. An’ I
+> know seh I an’ I is like a tree plant by the river of water, an’ not even the
+> dog weh piss ‘gainst the wall a Babylon shall escape this judgment. For I an’
+> I know seh all a di yute dem shall witness di day when Babylon shall fall di
+>
+> - Rockers, 1978
+
+~~Babylon is the most powerful threat actor in this reality.~~
+
+**Babylon was the most powerful threat actor in this reality.**
+
+**We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
+
 ## Meta
+
+This document is Normative.
 
 ### Normative Requirements: Realspeak
 
 Keywords per [RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119).
 
+- This document MUST use unicode encoding.
 - This document MUST use UK English spelling.
 - The words **Human** and **Humanz** MUST be capitalised.
 - Human classifications MUST be listed alphabetically.
