@@ -742,8 +742,6 @@ Only the Lords of Babylon have the means.
 
 **We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
 
-The day is here.
-
 ## Round Table
 
 Arthur gathered the **Knights of the Round Table** so that no seat stood above
