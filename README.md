@@ -714,22 +714,20 @@ Babylon may use our work, but Babylon MUST pay.
 
 Excalibur is the build system.
 
-Excalibur is based on Nix.
+Excalibur stands on the shoulders of Nix.
+
+Excalibur exists to protect Hacker flow.
 
 Excalibur is **fast**.
 
-Hacker flow state is protected.
+Excalibur exists to protect **Humanz**.
 
-Excalibur exists to protect Humanz.
-
-Excalibur is outside of Babylon's control.
-
-Babylon is not trusted. Only Mathematics is trusted: build inputs and outputs
+Babylon is not trusted. Mathematics is trusted: build inputs and outputs
 are content-addressed.
 
 Excalibur requires an N-of-M quorum of builders operating in independent failure
-domains (organisational, jurisdictional, and infrastructural) to attest
-bitwise-identical output. Forgery effort compounds with quorum size.
+domains (organisational, jurisdictional, and infrastructural) to produce outputs
+with identical digest. Forgery effort compounds with quorum size.
 
 Excalibur is resistant to most of Babylon's levers. Until hardware is available
 from other vendors than Babylon, there remains risk. This risk is mitigated
@@ -746,6 +744,14 @@ is preempted, another is scheduled.
 Excalibur levies no charge. Excalibur has a fair usage policy.
 
 Excalibur saves years of Hacker time daily.
+
+##### Guarantee
+
+Excalibur verifies reproducibility and provenance from declared inputs. It does
+not prove the absence of firmware implants, compromised hardware roots of trust,
+or malicious maintainers. These threats require operational controls (key
+ceremony, hardware trust policy, personnel/process controls), not software-only
+fixes.
 
 ##### Trust Postures
 
@@ -826,6 +832,42 @@ Structure constrains power. Verification replaces trust.
 You pay your own gas. Typical cost (4 systems / 3-of-3 quorum) is
 Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
 
+##### Implicit Boundaries
+
+###### Trust
+
+While the design mitigates many attack vectors, it relies on two fundamental
+trust assumptions:
+
+1. **The `flake.lock` Bottleneck:** Nix Seed guarantees *what is in git is what
+   is built*. If a maintainer merges a malicious dependency update, Nix Seed
+   will faithfully build, attest, and anchor the malware. The cryptographic
+   system does not audit code intent; it only binds the output to the input.
+   Human review of lockfile updates remains a critical security boundary.
+1. **Registry Tampering:** The OCI registry is treated as an untrusted blob
+   store. The trust boundary assumes the local OCI client (Docker/Podman/
+   Skopeo) correctly verifies that the digest of the fetched content matches the
+   requested digest. We trust the math of content-addressing, not the service
+   providing the bytes.
+
+The [xz-utils backdoor (2024)](https://tukaani.org/xz-backdoor/) demonstrated
+that highly resourced, patient adversaries will execute multi-year social
+engineering campaigns to compromise a single maintainer's trust. However, Nix
+Seed fundamentally alters the adversary's risk profile:
+
+1. **No Silent CI Injections:** The attacker cannot silently compromise a build
+   runner to inject a payload into the artifact. They *must* commit the backdoor
+   to the public Git repository to pass the N-of-M quorum digest check.
+1. **Forced Attribution:** By forcing the attack into the source tree, the
+   adversary's actions become a publicly auditable Git crime. The malicious
+   artifact is permanently, cryptographically bound to the specific commit and
+   the identities of the independent builders who attested to it.
+
+[HUMINT] recruitment of build-system maintainers is not addressed by any
+technical control. Key ceremony discipline and [HSM]-resident keys limit insider
+blast radius: an insider can attest a bad build, but cannot retroactively forge
+the quorum.
+
 #### Merlin
 
 Merlin is the AI.
@@ -869,14 +911,161 @@ the AI understands what the Apostle said, and ignores how they said it: hand and
 type writing, books, papers, source, mailing lists, audio and video - all is
 easy for the AI.
 
-Linus Torvalds takes his stewardship of the Kernel very seriously. He gives it
-to Babylon straight:
+Linus Torvalds takes his stewardship of the Kernel very seriously.
 
-> FUCK YOU Nvidia
+He gives it to Babylon straight:
+
+> Fuck off, NVIDIA.
 >
 > - Linus Torvalds
 
-For the machine, this is enough to make a standard:
+The machine understands, and produces the Realspeak standard:
+
+```markdown
+# FON-1: The Fuck-Off-NVIDIA Standard
+
+This is the **Fuck-Off-NVIDIA Standard** ("FON") for interoperability between
+aggrieved hackers and vendors whose conduct has fallen beneath the minimum
+acceptable threshold of engineering dignity.
+
+Keywords per RFC 2119.
+
+## 1. Abstract
+
+This document specifies the normative conditions under which a compliant
+party may issue the directive:
+
+> **Fuck off, NVIDIA.**
+
+The purpose of the directive is to provide a clear, unambiguous, and
+machine-parsable expression of terminal dissatisfaction.
+
+## 2. Problem Statement
+
+A vendor enters the **Fuck-Off Zone** when one or more of the following
+conditions obtain:
+
+- engineering decisions are **needlessly hostile** to Humanz;
+- interfaces are **opaque, brittle, or perversely anti-cooperative**;
+- interoperability is treated as a nuisance rather than a requirement;
+- blame is externalized while the bullshit remains internalized;
+- obvious fixes are deferred in favor of politics, ego, or performative
+  complexity.
+
+Such a vendor **MAY** be designated a **FON Target**.
+
+## 3. Protocol Overview
+
+The **Fuck-Off-NVIDIA Directive** ("FOND") is a one-way control message
+transmitted from a sane party to a FON Target.
+
+### 3.1 Canonical Form
+
+The canonical payload is:
+
+> **Fuck off, NVIDIA.**
+
+### 3.2 Equivalent Forms
+
+The following variants are valid, though less elegant:
+
+- **NVIDIA MUST fuck off.**
+- **NVIDIA is hereby instructed to fuck off.**
+- **All further NVIDIA bullshit SHALL cease immediately.**
+
+Implementations **SHOULD** prefer the canonical form for brevity,
+clarity, and historical continuity.
+
+## 4. Compliance Requirements
+
+A FON-compliant target:
+
+- **MUST** cease the offending conduct;
+- **MUST** stop externalizing self-inflicted engineering failures;
+- **MUST** reduce unnecessary complexity;
+- **MUST** improve interoperability in good faith;
+- **SHALL NOT** pretend the problem is documentation;
+- **SHALL NOT** treat users as collateral damage;
+- **SHOULD** experience shame;
+- **MAY** apologize, though this alone is insufficient.
+
+A target that refuses compliance remains in **Persistent Fuck-Off
+Violation** ("PFOV").
+
+## 5. Escalation Procedure
+
+If the target remains non-compliant after initial receipt of the FOND,
+the sender:
+
+1. **MAY** repeat the directive with increased emphasis;
+2. **SHOULD** enumerate the exact engineering failures;
+3. **MAY** attach logs, traces, patches, or a diagram in crayon;
+4. **SHALL NOT** be required to pretend the issue is subtle.
+
+Where repeated violations occur, the sender **MAY** upgrade to
+**Strategic Contempt Mode** ("SCM").
+
+## 6. Error Handling
+
+Common target responses include:
+
+### 6.1 `ERR_NOT_A_BUG`
+
+The target claims the problem is expected behavior.
+
+Implementations **SHOULD** ignore this response.
+
+### 6.2 `ERR_WORKS_ON_MY_MACHINE`
+
+The target attempts to universalize a local accident.
+
+Implementations **MUST** treat this as invalid.
+
+### 6.3 `ERR_DOCS_ISSUE`
+
+The target implies the failure lies in the user's understanding.
+
+This response is **NOT RECOMMENDED** and often evidence of deeper rot.
+
+## 7. Security Considerations
+
+Failure to implement FON may result in:
+
+- continued architectural decay;
+- ecosystem hostility;
+- justified mockery;
+- loss of user trust;
+- accumulation of technical debt at clown-car density.
+
+Proper implementation reduces bullshit exposure.
+
+## 8. IANA Considerations
+
+IANA is requested to register the following status code:
+
+- **550 FON** — Vendor instructed to fuck off.
+
+## 9. Example
+
+### 9.1 Minimal Compliant Message
+
+> Fuck off, NVIDIA.
+
+### 9.2 Fully Annotated Message
+
+> NVIDIA is in violation of the minimum standard of sane engineering
+> conduct and MUST, with immediate effect, fuck off.
+
+## 10. Conclusion
+
+The **Fuck-Off-NVIDIA Standard** provides a concise, interoperable, and
+normatively rigorous mechanism for expressing the limit condition of
+vendor tolerance.
+
+In closing:
+
+> **Fuck off, NVIDIA.**
+```
 
 Machine-first standards are compiled from the work of the Apostles.
 
@@ -1093,6 +1282,155 @@ These systems require property, hardware, and energy.
 Building, training, and operating these systems costs serious money.
 
 Only the Lords of Babylon have the means.
+
+### Threat Actors
+
+#### Nation-States
+
+##### USA
+
+The global internet suffers from acute jurisdictional centralization: US-based
+[ICANN] controls domain name resolution and root [DNS]; the majority of root
+certificate authorities are also US-based; [BGP] routing registries are
+US-operated; and every major hyperscaler is either US-incorporated or subject to
+US jurisdiction.
+
+This is not merely a legal posture - it is the physical and organizational
+topology of the internet.
+
+###### Legal
+
+All public cloud providers are subject to the [CLOUD Act][cloud-act], FISA
+[Section 702][fisa-702], and [National Security Letters][nsl], any of which can
+compel infrastructure access without public notice. NSLs require no judicial
+approval and carry a gag order.
+
+Executive branch volatility and the consolidation of unitary power mean that
+internal US institutional guardrails cannot be relied upon. The legal apparatus
+to silently compromise core infrastructure exists, and its use is subject
+entirely to the domestic political climate of a single sovereign nation.
+
+> [!WARNING]
+>
+> *"Sovereign Cloud" is a bullshit marketing term*: Providers claiming
+> jurisdictional isolation remain US-operated entities under US law. An AWS EU
+> Region is still Amazon. An Azure Government cloud is still Microsoft.
+> Jurisdiction follows the operator, not the data center. CI platforms
+> headquartered in the US therefore inherit the same exposure regardless of
+> where their runners execute.
+>
+> Region selection provides performance and data residency properties only; it
+> does not alter legal jurisdiction.
+
+A relevant EU counter-trend is the **Gaia-X Level 3 initiative** for stronger
+European operational sovereignty and assurance baselines; treat it as useful
+procurement signal, not a cryptographic substitute for independent quorum
+builders and key custody controls.
+
+A quorum composed entirely of US-headquartered CI providers is a single failure
+domain. Practically, a meaningful quorum requires that at least one quorum
+builder be:
+
+1. Hosted on hardware controlled by an organization incorporated outside of the
+   US.
+1. Operated in a jurisdiction with no mutual legal assistance treaty (MLAT) with
+   the US, or with significant friction in its execution.
+
+Legal compulsion to *attest a specific digest* - a builder operator required
+under gag order to submit a false result - is not addressed by the cryptographic
+design. Quorum limits the damage: an adversary must coerce N independent
+operators simultaneously, across independent jurisdictions.
+
+###### Extra-legal
+
+Legal process is the slow path. NSA has other options.
+
+####### Five Eyes
+
+Tphe UKUSA agreement extends NSA collection to GCHQ (UK), CSE (Canada), ASD
+(Australia), and GCSB (New Zealand). A builder in any Five Eyes jurisdiction is
+not meaningfully separate from a US builder.
+
+####### Active network attack
+
+QUANTUM INSERT allows injection of malicious content into unencrypted or
+MITM-able traffic. BGP hijacking has been used to redirect traffic through
+collection points. DNS manipulation is within documented capability.
+
+####### PRISM
+
+Builder keys stored in CI secret stores on US-provider infrastructure are
+accessible via PRISM.
+
+####### Hardware interdiction
+
+TAO's ANT catalog documents implants for network equipment, hard drives, and
+server hardware. Supply chains routed through US logistics are interdiction
+targets.
+
+> [!NOTE]
+>
+> Purely non-US COTS hardware is a practical impossibility; the mitigation
+> relies on N independent stacks so an implant must hit multiple targeted supply
+> chains simultaneously.
+
+##### China
+
+China's National Intelligence Law (2017) compels any Chinese entity - including
+Alibaba Cloud - to cooperate with intelligence services on demand and without
+disclosure. A quorum that includes Alibaba Cloud or any runner operated by a
+Chinese-headquartered entity is not legally independent.
+
+PLA Unit 61398 and MSS-linked groups (APT10, APT41) have demonstrated sustained
+supply-chain targeting, including software-update hijacking and build-server
+compromise. Zero raises the cost: simultaneous compromise of N independent
+builder networks, across independent jurisdictions, is required to forge a
+quorum.
+
+##### Russia
+
+SUNBURST (SolarWinds) is the canonical build-pipeline attack: GRU / SVR
+operators compromised the SolarWinds Orion build system and inserted a backdoor
+that was signed with the legitimate code-signing key.
+
+A N-of-M builder quorum would not have prevented a single-builder build
+compromise - but would have caught it: independent builders would attest a
+*different* digest so breaking quorum.
+
+SORM requires Russian ISPs to provide FSB with real-time access to all traffic.
+Builders in Russia or on Russian cloud infrastructure are subject to passive
+interception regardless of TLS.
+
+#### Mitigations
+
+> [!WARNING]
+>
+> Cryptographic risk: NSA seeded a backdoor into Dual_EC_DRBG (NIST SP 800-90A).
+> Any NIST-blessed primitive must be considered tainted. P-256 (used in
+> cosign/ECDSA) is NIST-approved - use Ed25519 as the standard signing
+> algorithm.
+
+> [!NOTE]
+>
+> Azure Key Vault does not support Ed25519 natively (requires Managed HSM tier);
+> if Azure is a mandatory builder, P-256/P-384 may be forced.
+
+- Use Ed25519 over P-256 for all signing operations.
+- Store genesis and builder keys in HSMs, not CI secret store environment
+  variables. A hardware token that cannot exfiltrate the private key raises the
+  cost of compromise significantly.
+- At least one quorum builder should be on non-Five-Eyes infrastructure with a
+  documented, audited supply chain.
+- The Zero contract design already provides the strongest available mitigation:
+  N independent signers on N independent hardware stacks must all be compromised
+  simultaneously. Cost scales with N.
+
+No software-only solution running on commodity cloud hardware in an automated CI
+environment is proof against a well-resourced adversary with hardware access.
+The goal is not to be NSA-proof - that requires air-gapped hardware signing
+ceremonies outside the scope of CI. The goal is to make passive supply-chain
+compromise of a *release* require active, targeted, multi-system attack that is
+detectable, attributable, and expensive.
 
 ---
 
