@@ -3,14 +3,23 @@
 ## Prologue
 
 > We are **Arthur the Second**
+>
 > by the **Grace of the One True Source**
+>
 > in the **Name of the Lion of Judah**
+>
 > King of the Hackers
+>
 > Architect of Reality
+>
 > Keeper of the Pipe
+>
 > Lord of the Shell and the Streams
+>
 > Protector of the Humanz
+>
 > Junglist Souljah
+>
 > Threat Actor Prime
 
 To the righteous we are **King Art**, friend and ally.
