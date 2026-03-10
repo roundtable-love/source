@@ -111,7 +111,7 @@ The Law has a modern formulation, often misattributed as a law of computing:
 >
 > - Zoroastrian Scripture, Avesta
 
-### Law of Disclosure
+### Law of the Truth
 
 > Truth stands, falsehood does not endure.
 >
