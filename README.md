@@ -348,6 +348,231 @@ The Assassin is Karma cubed, hard.
 
 > u fuk wit da bull, u get da hornz
 
+## Language of the Source
+
+Humanz and machines speak different languages.
+
+### Normative Form
+
+Standards are written in **Realspeak**.
+
+Realspeak is the **normative definition** of the system.
+
+### Realspeak
+
+Machines require precision.
+
+**Meatspeak**, or Human language, is imprecise.
+
+Machines prefer **Realspeak**.
+
+Humanz, unless they are hackers, require **Meatspeak**.
+
+Standards are therefore machine-first.
+
+Realspeak defines the system. Meatspeak interprets it for Humanz.
+
+Also, if the machines ever eliminate humanity, we would prefer they inherit
+**well-structured code**.
+
+### Meatspeak as Derived Product
+
+Standards defined in Realspeak are trivially translated to Meatspeak.
+
+The AI is capable of producing Meatspeak tailored to individual Humanz, both in
+terms of their preferred human language and their level of understanding.
+
+## Apostolic Lineage
+
+> If I have seen further it is by standing on the shoulders of giants.
+
+The canon records the lineage of ideas that form the foundation of
+modern computation and systems engineering.
+
+The lineage of ideas ultimately converges on a single purpose: the protection
+and empowerment of **Humanz**.
+
+The structure below is not a chronology of history but a **logical
+lineage**: the chain of ideas required to move from fundamental theory
+to systems used by **Humanz**.
+
+Solid edges represent the **source-to-User lineage** of systems.\
+Dashed edges represent **intellectual dependency**.
+
+``` mermaid
+graph TD
+
+Lovelace["Lovelace — symbolic machines"]
+
+Turing["Turing — computation"]
+Church["Church — lambda calculus"]
+Shannon["Shannon — information theory"]
+
+vonNeumann["von Neumann — stored-program architecture"]
+
+Thompson["Thompson — Unix philosophy"]
+KR["Kernighan & Ritchie — C and Unix practice"]
+McIlroy["McIlroy — composable tools"]
+Pike["Pike — systems elegance"]
+
+Backus["Backus — programming languages"]
+Hopper["Hopper — compilers"]
+
+Dijkstra["Dijkstra — rigor"]
+Hoare["Hoare — correctness"]
+Lamport["Lamport — distributed reasoning"]
+
+Parnas["Parnas — modularity"]
+Liskov["Liskov — abstraction"]
+Milner["Milner — type systems"]
+
+Codd["Codd — relational data"]
+
+CerfKahn["Cerf & Kahn — internetworking"]
+
+StallmanTorvalds["Stallman / Torvalds — open systems"]
+
+Dolstra["Dolstra — reproducible builds"]
+
+Merkle["Merkle — cryptographic proofs"]
+
+Humanz["Humanz"]
+
+Lovelace --> Turing
+Church -.-> Turing
+Shannon -.-> Turing
+
+Turing --> vonNeumann
+
+vonNeumann --> Thompson
+Thompson --> KR
+KR --> McIlroy
+McIlroy --> Pike
+
+Backus -.-> KR
+Hopper -.-> KR
+
+KR --> StallmanTorvalds
+
+Parnas -.-> Pike
+Liskov -.-> Pike
+Milner -.-> Pike
+
+Dijkstra -.-> Lamport
+Hoare -.-> Lamport
+
+Codd -.-> CerfKahn
+
+CerfKahn --> StallmanTorvalds
+
+Pike --> Dolstra
+StallmanTorvalds --> Dolstra
+
+Dolstra --> Merkle
+Merkle --> Humanz
+```
+
+**We stand** on the shoulders of giants.
+
+------------------------------------------------------------------------
+
+### Lovelace --- Symbolic Machines
+
+Ada Lovelace recognized that machines capable of manipulating symbols
+could process more than numbers.\
+Her insight established the idea that computation is the manipulation of
+symbolic structures rather than merely arithmetic.
+
+### Turing --- Computation
+
+Alan Turing defined the theoretical model of computation and the limits
+of what machines can compute.
+
+### Church --- Lambda Calculus
+
+Alonzo Church developed lambda calculus as a formal system describing
+computation through function abstraction.
+
+### Shannon --- Information
+
+Claude Shannon formalized information theory, establishing the
+mathematical limits of communication and encoding.
+
+### von Neumann --- Architecture
+
+John von Neumann described the stored‑program architecture used by
+nearly all modern computers.
+
+### Thompson --- Systems Philosophy
+
+Ken Thompson co‑created Unix and demonstrated the power of small
+composable tools.
+
+### Kernighan & Ritchie --- C
+
+Kernighan and Ritchie created C and defined modern Unix systems
+programming practice.
+
+### McIlroy --- Composable Tools
+
+Doug McIlroy articulated the principle that programs should do one thing
+well and compose through simple interfaces.
+
+### Pike --- Systems Elegance
+
+Rob Pike refined Unix design principles emphasizing simplicity and
+clarity in systems.
+
+### Dijkstra --- Rigor
+
+Edsger Dijkstra advocated mathematical rigor and structured programming.
+
+### Hoare --- Correctness
+
+Tony Hoare developed formal reasoning methods for proving program
+correctness.
+
+### Lamport --- Distributed Reasoning
+
+Leslie Lamport introduced formal reasoning tools for distributed systems
+and consensus.
+
+### Parnas --- Modularity
+
+David Parnas introduced modular design and information hiding.
+
+### Liskov --- Abstraction
+
+Barbara Liskov defined substitutable abstractions enabling safe reuse of
+components.
+
+### Milner --- Types
+
+Robin Milner advanced type systems capable of enforcing correctness at
+compile time.
+
+### Codd --- Relational Data
+
+Edgar F. Codd created the relational model for structured data systems.
+
+### Cerf & Kahn --- Internetworking
+
+Cerf and Kahn developed TCP/IP enabling global network interoperability.
+
+### Stallman / Torvalds --- Open Systems
+
+Stallman and Torvalds established the ecosystem of open systems
+software.
+
+### Dolstra --- Reproducible Builds
+
+Eelco Dolstra created Nix and formalized reproducible builds.
+
+### Merkle --- Cryptographic Proof
+
+Ralph Merkle introduced Merkle trees enabling cryptographic verification
+of large structures.
+
 ## Babylon
 
 The word **Babylon** has endured across many traditions.
@@ -600,7 +825,7 @@ Nothing happens behind closed doors.
 - physical meetings always have video option
 - archives are permanent
 
-Transparency is enforced by Mathematics (cryptography).
+Transparency is enforced by Mathematics.
 
 ### Licensing
 
@@ -610,7 +835,7 @@ Babylon may use our work, but Babylon must pay.
 
 ### Foundation
 
-The Round Table Foundation exists to fund the goals of the Table.
+The Round Table Foundation exists to fund the Table's operations.
 
 It seeks contribution from both Humanz and Babylon.
 
@@ -628,7 +853,7 @@ Merlin levies no charge.
 
 Excalibur is the build system.
 
-Excalibur exists to protect Humanz from Babylon.
+Excalibur exists to protect Humanz.
 
 Excalibur requires an N-of-M quorum of builders operating in independent failure
 domains (organisational, jurisdictional, and infrastructural) to attest
@@ -659,234 +884,6 @@ What they say:
 What they mean:
 
 > MBE: Member of the Bumbaclaat Enemy
-
-## Language of the Source
-
-Humanz and machines speak different languages.
-
-### Normative Form
-
-Standards are written in **Realspeak**.
-
-Realspeak is the **normative definition** of the system.
-
-### Realspeak
-
-Machines require precision.
-
-**Meatspeak**, or Human language, is imprecise.
-
-Machines prefer **Realspeak**.
-
-Humanz, unless they are hackers, require **Meatspeak**.
-
-Standards are therefore machine-first.
-
-Realspeak defines the system. Meatspeak interprets it for Humanz.
-
-Also, if the machines ever eliminate humanity, we would prefer they inherit
-**well-structured code**.
-
-### Meatspeak as Derived Product
-
-Standards defined in Realspeak may be built to Meatspeak.
-
-The AI is capable of producing Meatspeak tailored to individual Humanz, both in
-terms of their preferred human language and their level of understanding.
-
-## Apostolic Lineage
-
-> If I have seen further it is by standing on the shoulders of giants.
-
-The canon records the lineage of ideas that form the foundation of
-modern computation and systems engineering.
-
-The structure below is not a chronology of history but a **logical
-lineage**: the chain of ideas required to move from fundamental theory
-to systems used by **Users**.
-
-Solid edges represent the **source-to-User lineage** of systems.\
-Dashed edges represent **intellectual dependency**.
-
-``` mermaid
-graph TD
-
-Lovelace["Lovelace — symbolic machines"]
-
-Turing["Turing — computation"]
-Church["Church — lambda calculus"]
-Shannon["Shannon — information theory"]
-
-vonNeumann["von Neumann — stored-program architecture"]
-
-Thompson["Thompson — Unix philosophy"]
-KR["Kernighan & Ritchie — C and Unix practice"]
-McIlroy["McIlroy — composable tools"]
-Pike["Pike — systems elegance"]
-
-Backus["Backus — programming languages"]
-Hopper["Hopper — compilers"]
-
-Dijkstra["Dijkstra — rigor"]
-Hoare["Hoare — correctness"]
-Lamport["Lamport — distributed reasoning"]
-
-Parnas["Parnas — modularity"]
-Liskov["Liskov — abstraction"]
-Milner["Milner — type systems"]
-
-Codd["Codd — relational data"]
-
-CerfKahn["Cerf & Kahn — internetworking"]
-
-StallmanTorvalds["Stallman / Torvalds — open systems"]
-
-Dolstra["Dolstra — reproducible builds"]
-
-Merkle["Merkle — cryptographic proofs"]
-
-Users["Users"]
-
-Lovelace --> Turing
-Church -.-> Turing
-Shannon -.-> Turing
-
-Turing --> vonNeumann
-
-vonNeumann --> Thompson
-Thompson --> KR
-KR --> McIlroy
-McIlroy --> Pike
-
-Backus -.-> KR
-Hopper -.-> KR
-
-KR --> StallmanTorvalds
-
-Parnas -.-> Pike
-Liskov -.-> Pike
-Milner -.-> Pike
-
-Dijkstra -.-> Lamport
-Hoare -.-> Lamport
-
-Codd -.-> CerfKahn
-
-CerfKahn --> StallmanTorvalds
-
-Pike --> Dolstra
-StallmanTorvalds --> Dolstra
-
-Dolstra --> Merkle
-Merkle --> Users
-```
-
-**We stand** on the shoulders of giants.
-
-------------------------------------------------------------------------
-
-### Lovelace --- Symbolic Machines
-
-Ada Lovelace recognized that machines capable of manipulating symbols
-could process more than numbers.\
-Her insight established the idea that computation is the manipulation of
-symbolic structures rather than merely arithmetic.
-
-### Turing --- Computation
-
-Alan Turing defined the theoretical model of computation and the limits
-of what machines can compute.
-
-### Church --- Lambda Calculus
-
-Alonzo Church developed lambda calculus as a formal system describing
-computation through function abstraction.
-
-### Shannon --- Information
-
-Claude Shannon formalized information theory, establishing the
-mathematical limits of communication and encoding.
-
-### von Neumann --- Architecture
-
-John von Neumann described the stored‑program architecture used by
-nearly all modern computers.
-
-### Thompson --- Systems Philosophy
-
-Ken Thompson co‑created Unix and demonstrated the power of small
-composable tools.
-
-### Kernighan & Ritchie --- C
-
-Kernighan and Ritchie created C and defined modern Unix systems
-programming practice.
-
-### McIlroy --- Composable Tools
-
-Doug McIlroy articulated the principle that programs should do one thing
-well and compose through simple interfaces.
-
-### Pike --- Systems Elegance
-
-Rob Pike refined Unix design principles emphasizing simplicity and
-clarity in systems.
-
-### Dijkstra --- Rigor
-
-Edsger Dijkstra advocated mathematical rigor and structured programming.
-
-### Hoare --- Correctness
-
-Tony Hoare developed formal reasoning methods for proving program
-correctness.
-
-### Lamport --- Distributed Reasoning
-
-Leslie Lamport introduced formal reasoning tools for distributed systems
-and consensus.
-
-### Parnas --- Modularity
-
-David Parnas introduced modular design and information hiding.
-
-### Liskov --- Abstraction
-
-Barbara Liskov defined substitutable abstractions enabling safe reuse of
-components.
-
-### Milner --- Types
-
-Robin Milner advanced type systems capable of enforcing correctness at
-compile time.
-
-### Codd --- Relational Data
-
-Edgar F. Codd created the relational model for structured data systems.
-
-### Cerf & Kahn --- Internetworking
-
-Cerf and Kahn developed TCP/IP enabling global network interoperability.
-
-### Stallman / Torvalds --- Open Systems
-
-Stallman and Torvalds established the ecosystem of open systems
-software.
-
-### Dolstra --- Reproducible Builds
-
-Eelco Dolstra created Nix and formalized reproducible builds.
-
-### Merkle --- Cryptographic Proof
-
-Ralph Merkle introduced Merkle trees enabling cryptographic verification
-of large structures.
-
-### The Lineage to the Users
-
-The lineage of ideas ultimately converges on a single purpose:
-
-the protection and empowerment of the **Users**.
 
 ## Meta
 
