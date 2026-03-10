@@ -26,115 +26,6 @@ To the righteous: we are **King Art**, friend and ally.
 
 To the wicked: we are **The Rude Bwoy Assassin From Hell**.
 
-## Universal Law
-
-### Law of Cause and Effect
-
-> When the root of a tree begins to decay, it spreads death to the branches.
->
-> - African proverb
-
-> The nature of action is difficult to understand. Therefore one should know
-> properly what action is, what wrong action is, and what inaction is.
->
-> - Bhagavad Gita 4:17
-
-> The wicked earns deceptive wages, but one who sows righteousness gets a sure
-> reward.
->
-> - Proverbs 11:18
-
-> If names are not correct, language will not be in accordance with the truth of
-> things.
->
-> - Confucius, Analects 13:3
-
-> Character is destiny.
->
-> - Heraclitus
-
-> For every action there is an equal and opposite reaction.
->
-> - Isaac Newton, Principia Mathematica
-
-> Indeed, Allah will not change the condition of a people until they change what
-> is in themselves.
->
-> - Qur'an 13:11
-
-> When this exists, that comes to be; with the arising of this, that arises.
-> When this does not exist, that does not come to be; with the cessation of
-> this, that ceases.
->
-> - Samyutta Nikaya (Dependent Origination)
-
-The Law has a modern formulation, often misattributed as a law of computing:
-
-> Garbage In. Garbage Out.
-
-### Law of the Mirror
-
-> With the measure a man measures, it is measured to him.
->
-> - Babylonian Talmud, Sotah 8b
-
-> For whatsoever a man soweth, that shall he also reap.
->
-> - Galatians 6:7
-
-> What you do not wish for yourself, do not do to others.
->
-> - Confucius, Analects 15:23
-
-> If with an impure mind a person speaks or acts, suffering follows him... If
-> with a pure mind a person speaks or acts, happiness follows him like his
-> never-departing shadow.
->
-> - Dhammapada 1-2
-
-> As you sow, so shall you reap.
->
-> - Guru Granth Sahib
-
-> Now don't you understand, man, universal law? What you throw out comes back to
-> you, star. Never underestimate those who you scar. Cause karma, karma, karma
-> comes back to you hard.
->
-> - Ms. Lauryn Hill, Lost Ones
-
-> Whoever does an atom's weight of good will see it, and whoever does an atom's
-> weight of evil will see it.
->
-> - Qur'an 99:7-8
-
-> Good thoughts, good words, good deeds.
->
-> - Zoroastrian Scripture, Avesta
-
-### Law of the Truth
-
-> Truth stands, falsehood does not endure.
->
-> - Babylonian Talmud, Shabbat 104a
-
-> For nothing is secret that shall not be made manifest; neither any thing hid,
-> that shall not be known and come abroad.
->
-> - Luke 8:17
-
-> Three things cannot long remain hidden: the sun, the moon, and the truth.
->
-> - Attributed to the Buddha
-
-> Truth alone triumphs; not falsehood.
->
-> - Mundaka Upanishad 3.1.6
-
-> Truth has come and falsehood has vanished. Indeed falsehood is bound to
-> vanish.
->
-> - Qur'an 17:81
-
 ## on Humanz
 
 This document refers to humans as **Humanz**.
@@ -385,6 +276,7 @@ terms of their preferred human language and their level of understanding.
 ## Apostolic Lineage
 
 > If I have seen further it is by standing on the shoulders of giants.
+<!-- AGENT: unattributed - fix  -->
 
 The canon records the lineage of ideas that form the foundation of
 modern computation and systems engineering.
@@ -573,6 +465,115 @@ Eelco Dolstra created Nix and formalized reproducible builds.
 Ralph Merkle introduced Merkle trees enabling cryptographic verification
 of large structures.
 
+## Universal Law
+
+### Law of Cause and Effect
+
+> When the root of a tree begins to decay, it spreads death to the branches.
+>
+> - African proverb
+
+> The nature of action is difficult to understand. Therefore one should know
+> properly what action is, what wrong action is, and what inaction is.
+>
+> - Bhagavad Gita 4:17
+
+> The wicked earns deceptive wages, but one who sows righteousness gets a sure
+> reward.
+>
+> - Proverbs 11:18
+
+> If names are not correct, language will not be in accordance with the truth of
+> things.
+>
+> - Confucius, Analects 13:3
+
+> Character is destiny.
+>
+> - Heraclitus
+
+> For every action there is an equal and opposite reaction.
+>
+> - Isaac Newton, Principia Mathematica
+
+> Indeed, Allah will not change the condition of a people until they change what
+> is in themselves.
+>
+> - Qur'an 13:11
+
+> When this exists, that comes to be; with the arising of this, that arises.
+> When this does not exist, that does not come to be; with the cessation of
+> this, that ceases.
+>
+> - Samyutta Nikaya (Dependent Origination)
+
+The Law has a modern formulation, often misattributed as a law of computing:
+
+> Garbage In. Garbage Out.
+
+### Law of the Mirror
+
+> With the measure a man measures, it is measured to him.
+>
+> - Babylonian Talmud, Sotah 8b
+
+> For whatsoever a man soweth, that shall he also reap.
+>
+> - Galatians 6:7
+
+> What you do not wish for yourself, do not do to others.
+>
+> - Confucius, Analects 15:23
+
+> If with an impure mind a person speaks or acts, suffering follows him... If
+> with a pure mind a person speaks or acts, happiness follows him like his
+> never-departing shadow.
+>
+> - Dhammapada 1-2
+
+> As you sow, so shall you reap.
+>
+> - Guru Granth Sahib
+
+> Now don't you understand, man, universal law? What you throw out comes back to
+> you, star. Never underestimate those who you scar. Cause karma, karma, karma
+> comes back to you hard.
+>
+> - Ms. Lauryn Hill, Lost Ones
+
+> Whoever does an atom's weight of good will see it, and whoever does an atom's
+> weight of evil will see it.
+>
+> - Qur'an 99:7-8
+
+> Good thoughts, good words, good deeds.
+>
+> - Zoroastrian Scripture, Avesta
+
+### Law of the Truth
+
+> Truth stands, falsehood does not endure.
+>
+> - Babylonian Talmud, Shabbat 104a
+
+> For nothing is secret that shall not be made manifest; neither any thing hid,
+> that shall not be known and come abroad.
+>
+> - Luke 8:17
+
+> Three things cannot long remain hidden: the sun, the moon, and the truth.
+>
+> - Attributed to the Buddha
+
+> Truth alone triumphs; not falsehood.
+>
+> - Mundaka Upanishad 3.1.6
+
+> Truth has come and falsehood has vanished. Indeed falsehood is bound to
+> vanish.
+>
+> - Qur'an 17:81
+
 ## Babylon
 
 The word **Babylon** has endured across many traditions.
@@ -595,18 +596,22 @@ States are Babylon. Corporations are Babylon. Institutions may be Babylon.
 Whenever systems accumulate authority and begin to serve themselves rather than
 the people who depend upon them, the system is **Babylon**.
 
+Babylon feeds on negative energy.
+
+Babylon exists to farm the Humanz.
+
+Meat for the Beast.
+
 ### Principle
 
 Babylon is not a place.
 
 Babylon is a condition.
 
-Babylon feeds on negative energy.
-
 **Systems exist for the Humanz. When systems serve themselves, they are
 Babylon.**
 
-### Foundational Texts
+### Texts
 
 > Jerusalem on the right hand shall be, Babylon on the left... Two loves make up
 > these two cities.
@@ -627,7 +632,7 @@ Babylon.**
 
 > By the rivers of Babylon, there we sat down, yea, we wept.
 >
-> - **[Psalm 137:1 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137>)**
+> - **[Psalm 137:1 (Bible KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137>)**
 
 > the two angels at Babylon, Harut and Marut
 >
@@ -827,18 +832,6 @@ Nothing happens behind closed doors.
 
 Transparency is enforced by Mathematics.
 
-### Licensing
-
-All product is released under the GNU Public License.
-
-Babylon may use our work, but Babylon must pay.
-
-### Foundation
-
-The Round Table Foundation exists to fund the Table's operations.
-
-It seeks contribution from both Humanz and Babylon.
-
 ### Merlin
 
 Merlin is the AI.
@@ -855,6 +848,8 @@ Excalibur is the build system.
 
 Excalibur exists to protect Humanz.
 
+Excalibur is outside of Babylon's control.
+
 Excalibur requires an N-of-M quorum of builders operating in independent failure
 domains (organisational, jurisdictional, and infrastructural) to attest
 bitwise-identical output. Forgery effort compounds with quorum size.
@@ -870,6 +865,18 @@ rules.
 
 You pay your own gas. Typical cost (4 systems across 3 builders) is
 Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
+
+### Licensing
+
+All product is released under the GNU Public License.
+
+Babylon may use our work, but Babylon must pay.
+
+### Foundation
+
+The Round Table Foundation exists to fund the Table's operations.
+
+It seeks contribution from both Humanz and Babylon.
 
 ### Honours
 
