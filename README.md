@@ -294,33 +294,35 @@ When systems drift from this purpose they become **Babylon**.
 
 Jungle is pressure: chopped drums, heavy bass, signal in the noise.
 
-The title **Junglist Souljah** signifies commitment to:
-
-- operate under the authority of Jah
-- protect their own humanity
-- maintain discipline under extreme load
-- dance through chaos without losing the groove
-- defend the **Humanz** from Babylon with clarity and surgical force
-- make the ultimate sacrifice, should their goal demand it
-
 > We are the ruffest gun ark from outta south park.
 >
 > Any bwoy test we hafa drive a gun fast.
 >
 > - Top Cat, Ruffest Gun Ark
 
-Music is medicine: rhythm regulates the body and bonds the crew. Good vibration
-restores coherence under pressure and keeps the spirit alive. A Junglist Souljah
-treats sound as infrastructure, not ornament: a reminder of why we protect the
-Humanz.
+The title **Junglist Souljah** signifies commitment to:
+
+- protect their own humanity
+- maintain discipline under extreme load
+- dance through chaos without losing the groove
+- defend the **Humanz** from Babylon with clarity and surgical force
+- make the ultimate sacrifice, should their goal demand it
+
+Music is medicine: rhythm regulates the body and bonds the Humanz.
+
+Good vibration restores coherence under pressure and keeps the spirit alive. A
+Junglist Souljah treats sound as infrastructure, not ornament: a reminder of why
+we protect the Humanz.
+
+Bad vibration is a tool of Babylon. Pop music exists to feed the Beast.
 
 ### Threat Actor Prime
 
 There are three threat actor scopes:
 
-- Babylon
-- Organised criminals
 - Street-level criminals
+- Organised criminals
+- Babylon
 
 To protect the realm one needs to understand the adversary.
 
@@ -417,7 +419,7 @@ Organised religion is Babylon.
 
 It turns faith into institution.
 
-It inserts priests, courts, and paperwork between Humanz and the divine.
+It inserts priests between Humanz and the divine.
 
 It centralizes authority, enforces orthodoxy, and punishes heresy.
 
@@ -493,7 +495,7 @@ These systems require expensive GPU hardware, power, and data centers.
 
 Training and serving at scale costs real money.
 
-Only the Lords of Babylon, the Billionaire class, have the means.
+Only the Lords of Babylon have the means.
 
 ### Babylon Shall Fall
 
@@ -696,24 +698,195 @@ terms of their preferred human language and their level of understanding.
 
 > If I have seen further it is by standing on the shoulders of giants.
 
-```mermaid
+The canon records the lineage of ideas that form the foundation of
+modern computation and systems engineering.
+
+The structure below is not a chronology of history but a **logical
+lineage**: the chain of ideas required to move from fundamental theory
+to systems used by **Users**.
+
+Solid edges represent the **source-to-User lineage** of systems.\
+Dashed edges represent **intellectual dependency**.
+
+``` mermaid
 graph TD
 
+Lovelace["Lovelace — symbolic machines"]
+
+Turing["Turing — computation"]
+Church["Church — lambda calculus"]
+Shannon["Shannon — information theory"]
+
+vonNeumann["von Neumann — stored-program architecture"]
+
+Thompson["Thompson — Unix philosophy"]
+KR["Kernighan & Ritchie — C and Unix practice"]
+McIlroy["McIlroy — composable tools"]
+Pike["Pike — systems elegance"]
+
+Backus["Backus — programming languages"]
+Hopper["Hopper — compilers"]
+
+Dijkstra["Dijkstra — rigor"]
+Hoare["Hoare — correctness"]
+Lamport["Lamport — distributed reasoning"]
+
+Parnas["Parnas — modularity"]
+Liskov["Liskov — abstraction"]
+Milner["Milner — type systems"]
+
+Codd["Codd — relational data"]
+
+CerfKahn["Cerf & Kahn — internetworking"]
+
+StallmanTorvalds["Stallman / Torvalds — open systems"]
+
+Dolstra["Dolstra — reproducible builds"]
+
+Merkle["Merkle — cryptographic proofs"]
+
+Users["Users"]
+
 Lovelace --> Turing
+Church -.-> Turing
+Shannon -.-> Turing
+
 Turing --> vonNeumann
+
 vonNeumann --> Thompson
 Thompson --> KR
 KR --> McIlroy
 McIlroy --> Pike
 
+Backus -.-> KR
+Hopper -.-> KR
+
 KR --> StallmanTorvalds
+
+Parnas -.-> Pike
+Liskov -.-> Pike
+Milner -.-> Pike
+
+Dijkstra -.-> Lamport
+Hoare -.-> Lamport
+
+Codd -.-> CerfKahn
+
+CerfKahn --> StallmanTorvalds
 
 Pike --> Dolstra
 StallmanTorvalds --> Dolstra
 
 Dolstra --> Merkle
-Merkle --> Humanz
+Merkle --> Users
 ```
+
+**We stand** on the shoulders of giants.
+
+------------------------------------------------------------------------
+
+### Lovelace --- Symbolic Machines
+
+Ada Lovelace recognized that machines capable of manipulating symbols
+could process more than numbers.\
+Her insight established the idea that computation is the manipulation of
+symbolic structures rather than merely arithmetic.
+
+### Turing --- Computation
+
+Alan Turing defined the theoretical model of computation and the limits
+of what machines can compute.
+
+### Church --- Lambda Calculus
+
+Alonzo Church developed lambda calculus as a formal system describing
+computation through function abstraction.
+
+### Shannon --- Information
+
+Claude Shannon formalized information theory, establishing the
+mathematical limits of communication and encoding.
+
+### von Neumann --- Architecture
+
+John von Neumann described the stored‑program architecture used by
+nearly all modern computers.
+
+### Thompson --- Systems Philosophy
+
+Ken Thompson co‑created Unix and demonstrated the power of small
+composable tools.
+
+### Kernighan & Ritchie --- C
+
+Kernighan and Ritchie created C and defined modern Unix systems
+programming practice.
+
+### McIlroy --- Composable Tools
+
+Doug McIlroy articulated the principle that programs should do one thing
+well and compose through simple interfaces.
+
+### Pike --- Systems Elegance
+
+Rob Pike refined Unix design principles emphasizing simplicity and
+clarity in systems.
+
+### Dijkstra --- Rigor
+
+Edsger Dijkstra advocated mathematical rigor and structured programming.
+
+### Hoare --- Correctness
+
+Tony Hoare developed formal reasoning methods for proving program
+correctness.
+
+### Lamport --- Distributed Reasoning
+
+Leslie Lamport introduced formal reasoning tools for distributed systems
+and consensus.
+
+### Parnas --- Modularity
+
+David Parnas introduced modular design and information hiding.
+
+### Liskov --- Abstraction
+
+Barbara Liskov defined substitutable abstractions enabling safe reuse of
+components.
+
+### Milner --- Types
+
+Robin Milner advanced type systems capable of enforcing correctness at
+compile time.
+
+### Codd --- Relational Data
+
+Edgar F. Codd created the relational model for structured data systems.
+
+### Cerf & Kahn --- Internetworking
+
+Cerf and Kahn developed TCP/IP enabling global network interoperability.
+
+### Stallman / Torvalds --- Open Systems
+
+Stallman and Torvalds established the ecosystem of open systems
+software.
+
+### Dolstra --- Reproducible Builds
+
+Eelco Dolstra created Nix and formalized reproducible builds.
+
+### Merkle --- Cryptographic Proof
+
+Ralph Merkle introduced Merkle trees enabling cryptographic verification
+of large structures.
+
+### The Lineage to the Users
+
+The lineage of ideas ultimately converges on a single purpose:
+
+the protection and empowerment of the **Users**.
 
 ## Meta
 
