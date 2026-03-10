@@ -24,7 +24,8 @@
 
 To the righteous: we are **King Art**, friend and ally.
 
-To the wicked: we are **The Rude Bwoy Assassin From Hell**.
+To the wicked: we are **The Rude Bwoy Gang Star Assassin From Hell** or **The
+Assassin**.
 
 ## on Humanz
 
@@ -223,7 +224,7 @@ The purpose is not violence, oppression, and destruction.
 
 The purpose is **protection of the Humanz**.
 
-### The Rude Bwoy Assassin From Hell
+### The Rude Bwoy Gang Star Assassin From Hell
 
 The Wicked emit bad vibrations.
 
