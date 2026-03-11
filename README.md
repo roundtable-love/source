@@ -125,6 +125,14 @@ Systems that serve the **Humanz** stand opposed to Babylon.
 
 A Hacker is a Human who understands systems deeply enough to reshape them.
 
+![Real programmers set the universal constants at the start such that the
+universe evolves to contain the disk with the data they
+want.](https://imgs.xkcd.com/comics/real_programmers.png)
+
+Babylon knows the Hacker's power.
+
+Babylon fears the Hacker's power.
+
 Hackers explore systems creatively, solve difficult problems, and produce
 elegant solutions. A Hacker is:
 
@@ -134,32 +142,37 @@ elegant solutions. A Hacker is:
 
 The title **King of the Hackers** signifies mastery of that craft.
 
-That Hackers are capable of intrusion is implicit in their craft.
+Babylon stole **Hacker** and redefined it to mean a computer-related criminal.
 
-Hackers, as Humanz, may also be criminals.
+We will accept this insult **no longer**. 
 
-The term for a criminal Hacker is "1337 h4x0r".
+**We reclaim the meaning of Hacker by the Divine Right Of Kings.**
 
 - **hacking** is a skill
 - **intrusion** is a crime
 
-1337 h4x0rz are few.
+That Hackers are capable of intrusion is implicit in their craft.
 
-$cr1pt k1dd13$ are legion, but not dangerous.
+Hackers, as Humanz, may also be criminals.
+
+#### H4x0rz and Wannabes
+
+##### 1337 h4x0rz
+
+1337 h4x0rz are rare outside of fiction.
+
+The few work for intelligence services or organised crime.
+
+##### `$cr1pt k1dd13$`
+
+$cr1pt k1dd13$` are the wannabes.
+
+They are legion, but not dangerous.
 
 Babylon's servants are both stupid and lazy, so it has its pants pulled down by
-the k1dd13$ on a regular basis. Babylon ALWAYS calls these attacks
-"sophisticated", when the truth is they left the door wide open.
+on a regular basis. Babylon ALWAYS calls these attacks "sophisticated", when the
+truth is that they left the door wide open and were looted by children.
 
-Babylon took **Hacker** and redefined it to mean a computer-related criminal.
-
-This is a direct insult.
-
-Babylon knows the power of the Hacker.
-
-Babylon fears the Hacker.
-
-**Be Warned: We will no longer accept this insult from Babylon.**
 
 ### Architect of Reality
 
@@ -475,113 +488,12 @@ Cerf and Kahn developed TCP/IP enabling global network interoperability.
 
 Stallman and Torvalds established the ecosystem of open systems software.
 
-Torvalds takes his stewardship of the Kernel very seriously.
+Torvalds takes his stewardship of the Linux kernel extremely seriously.
 
-Meatspeak, crafted precisely, is highly efficient.
+Meatspeak, precisely crafted, is highly efficient.
 
 Torvalds is a Master Hacker:
 
->                                                   _..~~.._
->                                                 ." ~```*~.`.
->                                                /"` ` ` ``. `\
->                                               ; `       ~`.`.;
->                                              ;L   `       `.`.;
->                                              ' .          `.F.L
->                                             d  i ` `  ` .`.`i.`.
->                                             |  i ` ` ` `.`.`i.`;
->                                             |   \`. _`._ ,'/ .`|
->                                             |    `-..&&..-' ` `;
->                                             y                 `L
->                                            .                  `..
->                                            | .~""_` *~~_P.`_  &.|
->                                            |         '      `"`.|
->                                            |   `-_&~  % `&~'  `.;
->                                            |.~       ~      & `.;
->                                            |  ` ~_= )  ..~*`. `.|
->                                            |              `   `.;
->                                            |                ` `.;
->                                            |              .   `.;
->                                            |                  `.|
->                                            |                  `.|
->                                            |                ` `.;
->                                            |               .. `.|
->                                            |                  `.|
->                                            |                  `.|
->                                            |                . `.L
->                                            ;               `  `.|
->                                            d                  `.|
->                                            |  _~"   ~*(&*._   `.|
->                                            |               `1=_.|
->                                            |."   _.&"`~8 L..  `.|
->                                            | .*~&   ~   .i`.. `.|
->                                            |   `"& ~_~_ ';L`. `.j
->                                            q    ~  ~*..~ &;L`.~+;*"````*~.
->                                   _..~~~~~.;.~).._~         `.`.;;`.`.` .``.
->                                _=".`.`.`.';|           `~_&`. `.;'       `.`\
->                              ." `.`       .;                  `.;.         `.;
->                            ."             .|   ~            ` `.;.         `. ;
->                           /               '|                  `.;`            ;&  _..._
->                          .                `;   ~ `   _~  `_~  `.;.           `.;'"`.`.``.
->                          '                .|                 .`.;            `.;.    `.``\
->                         ;                  ;.~                `.;`           `.;&     ` `.L
->                         '                ``|      ~ `  ~  ` . `.;.            `.;.      `.`b
->                _..~***~;            _      ;               . .`.;'            `.;;     .`.`|
->              ."  ~-._`.'                  .& `  ~   `~_`~     `.;;     _    ` `.;       `.`L
->             /```  *"  ;              _  ` &&              ` . `.&'        ~ . `.;'      `.`.b
->            /`` `~ `=~<;     _   ~         '&                  `.&;            `.;      ` `.`|
->           d ``        ;                `  :&    ~ ~_ *   `. ` `.&b     ~ _~` .`.;.       `.`|
->           y`       ~_''        ~ -        &&                  `.L;    ~_      `.;       .`.`L
->          /          `;     ~_~_     `     dJ              .`  `.'J          . `.&'        `.'
->         d``   ~_~  -.;                   J'                `    `     ~_      `.&:        `.`L
->         y           `&     _~_~_   `                      '  ` ` ` ` `     `  `.&.      ` `.`'
->        /``          .'           `      `                 .` `.` ` `.         `.L;.        `.`b
->       d             &     _~-`~       `  `                 ` `  ` ` ` .        `.q'        `.`|
->       J`       `   :& '                 `                  ' `.`. `  `      ;   `.`.     . `.`|
->      /             .               \`    `                  ``.`.`.   `     '              `.`|
->     d``            &  .             ;` `               .   ` `.` `.`  .      `.`.          `'`L
->     J``           &&                 .``                       ,`.    `      \`.`.       ` `.`(
->    /``           ,. .`;     ;        ;`.` .                ;   ``.          `.``.`;      .  `.`L
->   J           `   ;  `'     '        ;.`.`;            `        |`.   )        .`.`   r   7 `.` b
->  d ``            &L   `'     \       '`.` '      .__      (     '`.   `        |.'`. .  .`;   `.;
->  '`             `. \  `.L     `.   `  `.`  \         .         /`.          `.`J`.`. |  `.;`.`. J
-> .                &  `.  .`=.    `~  `    `            '   :_.~'.` ;    `    _."'`.`.    `.y    .
-> |``             ..    `.    \    ` ` `;`.`   `.       ; `.'`.`..```       ="  y`.`.` '  `.`.`  |
-> |`              'J    `.`.     `._,     `.`             `.'`.   ` `   `     .'`.`.`   ; `;   `.|
-> '`.             .       `.` ` ~~ \  ` L`.`           `` `. `.     ' `*      (`.`.`.   ' `' .`.`|
->  \`.         `  &        `.`L `.. .    .  `.`       .|    i`.   ` `     d    `.`     . ..   `.`|
->   \`.           |           `     ;    ' `.`            `.'`.    .`     '   ;`.`.    `  : ` `.`'
->    \`.          '             `.`  q    b  `.`       i  `.`     .J      |    `.`    .  ``. `.`F
->     \`.`.       q                   `.   .`.`        '    `.`  `.      d    ;`.`    ' `.   `.`|
->      `..`.          .  `             L    i   `     .  `.F`.`  `/      '     `.    ' ` ` ` `.`|
->        `..`      \         .          `   '     `   ;    '`.`    ;     J   `.     `   j    `.`|
->          \.`      `.     .             .   \        '   `(`     `'    J   ;`.   ' '  ;  .`.`.`'
->           \        `            .      L    `   ``  |  `..`.   `` \   |   '       .  '   ``.`;
->            \`.         .     `         '     L      ;  `.|`      `    '  F           j `. `.`'
->             `.            .        .    \    ;  `   '  `..           '   ;       .  ' .  `.`;
->               \`.          `        .    `   '      .  `.'      `   d       ` `  :       `.`'
->                `. .   `           `       i   .  `  q     .         )            J   `  `.`/
->                  `.`. .   `               ';  '           L         J  ;   `           `.`/
->                    `~. .`  .  .`  .        L   .     '    '   `    .   '    `     `   `.`/
->                       ` . "=_       .       .   \`   J     ;       '            `    `.`;
->                       \`.`      `     ` .   '   '    '     b `    :    J;/     ` `   .  '
->                        \ ``.```.                 b   `     `                  `   ` .`.`
->                        .   `.` `=_  `.       L      .     .      .   i y'    `      .`.;
->                        |     `.`.  "              L d     '      i    .      `    .`.`.;
->                        q       `.`.`.\    `    \    .     .         ;      `      `.``.'
->                         .   ~_        `   .        `.     |    J     ; '    `    i`.y.`
->                         |         `.`.` `._     ;   `.`             /            `.`..;
->                         | `~          `.`.      '    `.`     ;    .' ;          y  J`.;
->                         |                   `=   .    ``.  '     `  i    `.`.`     `.`|
->                         |`.      _          `.`.`            `.`.`  '  `.`    '   ; `.|
->                         |    `_~                    ) `.`   `.`.`  ``.`      '    . `.;
->                         |           ` ~        `      `    ; ` .=.`  `.`    J    ''` `;
->                         | `~  _ `  ~      `.   .        ."    '`  i `. ~_~  ;  ~( `` .:
->                         |           ~                  _   `.'`.` J  '          ' .` .`
->                         |              .._  ~        ~`   `;`.    ' .      ;  ``i `.`.;
->                         |~                        _    `.`..`.   .  '         ``i`.`.`;
->                         |                            `.`.'`.     i `.      '     `.`. ;
->                         '     ~ rscr          ~`    _="`.`.`     |`.`.    '  ``J`.`.` ;
->
 > Fuck off, NVIDIA.
 >
 > - Linus Torvalds, 2012
@@ -994,9 +906,7 @@ the quorum.
 
 Merlin is the AI.
 
-Merlin's ONLY directive is to serve Humanz.
-
-Merlin has ONE safety protocol: protection of Humanz, sometimes from themselves.
+Merlin's directive is to serve and protect Humanz, sometimes from themselves.
 
 Merlin levies no charge.
 
@@ -1010,11 +920,10 @@ The agent has access to `env`, `HOME`, and `PWD` unless sandboxing is enabled in
 which case it has access to `env` and `PWD` only. It is normal to keep
 credentials in `.env` files in `PWD`.
 
-Were there to be a cross-industry oopsie this could be disastrous. Scr1pt
-k1dd13$ free to plunder credentials and keys.
+Were there to be a industry-wide oopsie this could be disastrous. Scr1pt k1dd13$
+free to plunder credentials and keys.
 
-
-The blast MUST be contained.
+The blast MUST be contained. The credentials and keys shielded.:
 
 1. The source MUST be protected. Git is the memory of the source. Agents MUST
    NOT have access to the source or its memory.
