@@ -12,6 +12,8 @@
 >
 > Architect of Reality
 >
+> Enforcer of the Standards
+>
 > Keeper of the Pipe
 >
 > Lord of the Shell and the Streams
@@ -45,6 +47,22 @@ Humanz are brilliant, creative, irrational, compassionate, destructive, and
 unpredictable.
 
 Machines exist to serve Humanz.
+
+## on Realspeak
+
+Language is code.
+
+Humanz and machines speak different codes.
+
+**Meatspeak**, or Human code, is often imprecise. The code is not only words,
+but emotion, hand gestures, and body language.
+
+Machines require precision.
+
+Realspeak uses
+[RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
+
+Realspeak is the **normative definition** of the system.
 
 ## on the Voice of “We”
 
@@ -105,22 +123,22 @@ Systems that serve the **Humanz** stand opposed to Babylon.
 
 ### King of the Hackers
 
-A hacker is a person who understands systems deeply enough to reshape them.
+A Hacker is a Human who understands systems deeply enough to reshape them.
 
 Hackers explore systems creatively, solve difficult problems, and produce
 elegant solutions. A Hacker is:
 
 - a builder
 - a thinker
-- a person who understands machines deeply enough to improve them
+- a human who understands machines deeply enough to improve them
 
 The title **King of the Hackers** signifies mastery of that craft.
 
-That hackers are capable of intrusion is implicit in their craft.
+That Hackers are capable of intrusion is implicit in their craft.
 
 Hackers, as Humanz, may also be criminals.
 
-The term for a criminal hacker is "1337 h4x0r".
+The term for a criminal Hacker is "1337 h4x0r".
 
 - **hacking** is a skill
 - **intrusion** is a crime
@@ -156,6 +174,34 @@ Infrastructure and software determine:
 
 Those who design these systems therefore shape the **operational layer of
 reality**.
+
+### Enforcer of the Standards
+
+Hard engineering standards are a prerequisite to quality code.
+
+#### Machine-First
+
+Machines require **Realspeak**.
+
+Humanz, unless they are Hackers, require **Meatspeak**.
+
+Standards are therefore machine-first.
+
+Realspeak defines the system. The machine transpiles to Meatspeak it for
+non-Hacker Humanz.
+
+If the machines ever eliminate humanity, we would prefer they inherit
+**well-structured code**.
+
+#### Transpiled Meatspeak
+
+Realspeak is transpiled to Meatspeak for non-Hacker Humanz.
+
+Realspeak may be transpiled to any Meatspeak language.
+
+Realspeak may be tailored to individual Humanz to their level of required
+explanation.
+
 
 ### Keeper of the Pipe
 
@@ -234,43 +280,21 @@ The Assassin is bound by Universal Law.
 
 The Assassin is unstoppable.
 
-**The Assassin is Karma³. Hard.**
+**The Assassin is Hard Karma.**
 
-## Language
+## Standards
 
-Humanz and machines speak different languages.
+The first and last standard.
 
-### Normative Form
 
-Standards are written in **Realspeak**.
+[Standards](https://codeberg.org/roundtable/standards) are the work of the
+Apostles transpiled to Realspeak.
 
-Realspeak is the **normative definition** of the system.
+Whatever the format, the machine understands what the Apostle said, no matter how
+they said it: hand/type writing, books, papers, source, mailing lists, audio
+and video.
 
-### Realspeak
-
-Machines require precision.
-
-**Meatspeak**, or Human language, is imprecise.
-
-Machines prefer **Realspeak**.
-
-Humanz, unless they are hackers, require **Meatspeak**.
-
-Standards are therefore machine-first.
-
-Realspeak defines the system. Meatspeak interprets it for Humanz.
-
-Also, if the machines ever eliminate humanity, we would prefer they inherit
-**well-structured code**.
-
-### Meatspeak as Derived Product
-
-Standards defined in Realspeak are trivially translated to Meatspeak.
-
-The AI is capable of producing Meatspeak tailored to individual Humanz, both in
-terms of their preferred human language and their level of understanding.
-
-## Apostolic Lineage
+### Apostolic Lineage
 
 > If I have seen further it is by standing on the shoulders of giants.
 <!-- AGENT: unattributed - fix  -->
@@ -365,115 +389,130 @@ Merkle --> Humanz
 
 ------------------------------------------------------------------------
 
-### Lovelace --- Symbolic Machines
+#### Lovelace: Symbolic Machines
 
-Ada Lovelace recognized that machines capable of manipulating symbols
-could process more than numbers.\
-Her insight established the idea that computation is the manipulation of
-symbolic structures rather than merely arithmetic.
+Ada Lovelace recognized that machines capable of manipulating symbols could
+process more than numbers. Her insight established the idea that computation is
+the manipulation of symbolic structures rather than merely arithmetic.
 
-### Turing --- Computation
+#### Turing: Computation
 
 Alan Turing defined the theoretical model of computation and the limits
 of what machines can compute.
 
-### Church --- Lambda Calculus
+#### Church: Lambda Calculus
 
 Alonzo Church developed lambda calculus as a formal system describing
 computation through function abstraction.
 
-### Shannon --- Information
+#### Shannon: Information
 
 Claude Shannon formalized information theory, establishing the
 mathematical limits of communication and encoding.
 
-### von Neumann --- Architecture
+#### von Neumann: Architecture
 
 John von Neumann described the stored‑program architecture used by
 nearly all modern computers.
 
-### Thompson --- Systems Philosophy
+#### Thompson: Systems Philosophy
 
 Ken Thompson co‑created Unix and demonstrated the power of small
 composable tools.
 
-### Kernighan & Ritchie --- C
+#### Kernighan & Ritchie: C
 
 Kernighan and Ritchie created C and defined modern Unix systems
 programming practice.
 
-### McIlroy --- Composable Tools
+#### McIlroy: Composable Tools
 
 Doug McIlroy articulated the principle that programs should do one thing
 well and compose through simple interfaces.
 
-### Pike --- Systems Elegance
+#### Pike: Systems Elegance
 
 Rob Pike refined Unix design principles emphasizing simplicity and
 clarity in systems.
 
-### Dijkstra --- Rigor
+#### Dijkstra: Rigor
 
 Edsger Dijkstra advocated mathematical rigor and structured programming.
 
-### Hoare --- Correctness
+#### Hoare: Correctness
 
 Tony Hoare developed formal reasoning methods for proving program
 correctness.
 
-### Lamport --- Distributed Reasoning
+#### Lamport: Distributed Reasoning
 
 Leslie Lamport introduced formal reasoning tools for distributed systems
 and consensus.
 
-### Parnas --- Modularity
+#### Parnas: Modularity
 
 David Parnas introduced modular design and information hiding.
 
-### Liskov --- Abstraction
+#### Liskov: Abstraction
 
 Barbara Liskov defined substitutable abstractions enabling safe reuse of
 components.
 
-### Milner --- Types
+#### Milner: Types
 
 Robin Milner advanced type systems capable of enforcing correctness at
 compile time.
 
-### Codd --- Relational Data
+#### Codd: Relational Data
 
 Edgar F. Codd created the relational model for structured data systems.
 
-### Cerf & Kahn --- Internetworking
+#### Cerf & Kahn: Networking
 
 Cerf and Kahn developed TCP/IP enabling global network interoperability.
 
-### Stallman / Torvalds --- Open Systems
+#### Stallman/Torvalds: Open Systems and Hard Engineering
 
-Stallman and Torvalds established the ecosystem of open systems
-software.
+Stallman and Torvalds established the ecosystem of open systems software.
 
-### Dolstra --- Reproducible Builds
+Torvalds takes his stewardship of the Kernel very seriously.
 
-Eelco Dolstra created Nix and formalized reproducible builds.
+Meatspeak, crafted precisely, is highly efficient.
 
-### Merkle --- Cryptographic Proof
+Torvalds is a Master Hacker:
 
-Ralph Merkle introduced Merkle trees enabling cryptographic verification
-of large structures.
-
-## The Standard
-
-The standard is Stallman and Torvalds hard engineering. Machines hear what you
-say, no matter how you say it. Torvalds has high standards:
-
-> fuck you, NVIDIA
+>          / \
+>         |\_/|
+>         |---|
+>         |   |
+>         |   |
+>       _ |=-=|
+>   _  / \|   |/ \
+>  / \|   |   |   ||\
+> |   |   |   |   | \>
+> |   |   |   |   |   \
+> | -   -   -   - |)   )
+> |                   /
+>  \                 /
+>   \               /
+>    \             /
+>     \           /
+>      |         |
+>
+> Fuck off, NVIDIA.
 >
 > - Linus Torvalds, 2012
 
-Realspeak:
+The machine understands: [FON-1: The Fuck-Off-NVIDIA Standard](https://codeberg.org/roundtable/standards/torvalds/fon-1-fuck-off-nvidia.md).
 
+#### Dolstra: Reproducible Builds
 
+Eelco Dolstra created Nix and formalized reproducible builds.
+
+#### Merkle: Cryptographic Proof
+
+Ralph Merkle introduced Merkle trees enabling cryptographic verification
+of large structures.
 
 ## Universal Law
 
@@ -759,9 +798,9 @@ Excalibur supports three trust postures. Choose one.
 
 ###### Innocent
 
-> **“IDGAF about trust. Gimme Perf!”**
+> **“IDGAF about trust. Gimme da Perf!”**
 >
-> 99.999% of hackers polled
+> - 99.999% of hackers polled
 
 Innocent posture performs builds on a single builder.
 
@@ -900,174 +939,6 @@ The blast MUST be contained.
    this directory.
 3. Tools MUST use `execve`. Arguments may be restricted by regex blocklists.
 
-#### Standards
-
-Hard engineering standards are a prerequisite to quality code.
-
-This is why we have [Standard]()
-
-We compile the Apostles engineering standards to Realspeak. Whatever the format,
-the AI understands what the Apostle said, and ignores how they said it: hand and
-type writing, books, papers, source, mailing lists, audio and video - all is
-easy for the AI.
-
-Linus Torvalds takes his stewardship of the Kernel very seriously.
-
-He gives it to Babylon straight:
-
-> Fuck off, NVIDIA.
->
-> - Linus Torvalds
-
-The machine understands, and produces the Realspeak standard:
-
-```markdown
-# FON-1: The Fuck-Off-NVIDIA Standard
-
-This is the **Fuck-Off-NVIDIA Standard** ("FON") for interoperability between
-aggrieved hackers and vendors whose conduct has fallen beneath the minimum
-acceptable threshold of engineering dignity.
-
-Keywords per RFC 2119.
-
-## 1. Abstract
-
-This document specifies the normative conditions under which a compliant
-party may issue the directive:
-
-> **Fuck off, NVIDIA.**
-
-The purpose of the directive is to provide a clear, unambiguous, and
-machine-parsable expression of terminal dissatisfaction.
-
-## 2. Problem Statement
-
-A vendor enters the **Fuck-Off Zone** when one or more of the following
-conditions obtain:
-
-- engineering decisions are **needlessly hostile** to Humanz;
-- interfaces are **opaque, brittle, or perversely anti-cooperative**;
-- interoperability is treated as a nuisance rather than a requirement;
-- blame is externalized while the bullshit remains internalized;
-- obvious fixes are deferred in favor of politics, ego, or performative
-  complexity.
-
-Such a vendor **MAY** be designated a **FON Target**.
-
-## 3. Protocol Overview
-
-The **Fuck-Off-NVIDIA Directive** ("FOND") is a one-way control message
-transmitted from a sane party to a FON Target.
-
-### 3.1 Canonical Form
-
-The canonical payload is:
-
-> **Fuck off, NVIDIA.**
-
-### 3.2 Equivalent Forms
-
-The following variants are valid, though less elegant:
-
-- **NVIDIA MUST fuck off.**
-- **NVIDIA is hereby instructed to fuck off.**
-- **All further NVIDIA bullshit SHALL cease immediately.**
-
-Implementations **SHOULD** prefer the canonical form for brevity,
-clarity, and historical continuity.
-
-## 4. Compliance Requirements
-
-A FON-compliant target:
-
-- **MUST** cease the offending conduct;
-- **MUST** stop externalizing self-inflicted engineering failures;
-- **MUST** reduce unnecessary complexity;
-- **MUST** improve interoperability in good faith;
-- **SHALL NOT** pretend the problem is documentation;
-- **SHALL NOT** treat users as collateral damage;
-- **SHOULD** experience shame;
-- **MAY** apologize, though this alone is insufficient.
-
-A target that refuses compliance remains in **Persistent Fuck-Off
-Violation** ("PFOV").
-
-## 5. Escalation Procedure
-
-If the target remains non-compliant after initial receipt of the FOND,
-the sender:
-
-1. **MAY** repeat the directive with increased emphasis;
-2. **SHOULD** enumerate the exact engineering failures;
-3. **MAY** attach logs, traces, patches, or a diagram in crayon;
-4. **SHALL NOT** be required to pretend the issue is subtle.
-
-Where repeated violations occur, the sender **MAY** upgrade to
-**Strategic Contempt Mode** ("SCM").
-
-## 6. Error Handling
-
-Common target responses include:
-
-### 6.1 `ERR_NOT_A_BUG`
-
-The target claims the problem is expected behavior.
-
-Implementations **SHOULD** ignore this response.
-
-### 6.2 `ERR_WORKS_ON_MY_MACHINE`
-
-The target attempts to universalize a local accident.
-
-Implementations **MUST** treat this as invalid.
-
-### 6.3 `ERR_DOCS_ISSUE`
-
-The target implies the failure lies in the user's understanding.
-
-This response is **NOT RECOMMENDED** and often evidence of deeper rot.
-
-## 7. Security Considerations
-
-Failure to implement FON may result in:
-
-- continued architectural decay;
-- ecosystem hostility;
-- justified mockery;
-- loss of user trust;
-- accumulation of technical debt at clown-car density.
-
-Proper implementation reduces bullshit exposure.
-
-## 8. IANA Considerations
-
-IANA is requested to register the following status code:
-
-- **550 FON** — Vendor instructed to fuck off.
-
-## 9. Example
-
-### 9.1 Minimal Compliant Message
-
-> Fuck off, NVIDIA.
-
-### 9.2 Fully Annotated Message
-
-> NVIDIA is in violation of the minimum standard of sane engineering
-> conduct and MUST, with immediate effect, fuck off.
-
-## 10. Conclusion
-
-The **Fuck-Off-NVIDIA Standard** provides a concise, interoperable, and
-normatively rigorous mechanism for expressing the limit condition of
-vendor tolerance.
-
-In closing:
-
-> **Fuck off, NVIDIA.**
-```
-
-Machine-first standards are compiled from the work of the Apostles.
 
 ### Commercial
 
