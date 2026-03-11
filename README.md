@@ -48,7 +48,9 @@ unpredictable.
 
 Machines exist to serve Humanz.
 
-## on Realspeak
+## on Language
+
+### Realspeak
 
 Language is code.
 
@@ -63,6 +65,15 @@ Realspeak uses
 [RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
 
 Realspeak is the **normative definition** of the system.
+
+#### Meatspeak
+
+Realspeak is transpiled to Meatspeak for non-Hacker Humanz.
+
+Realspeak may be transpiled to any Meatspeak language.
+
+Realspeak may be tailored to individual Humanz to their level of required
+explanation.
 
 ## on the Voice of “We”
 
@@ -123,15 +134,34 @@ Systems that serve the **Humanz** stand opposed to Babylon.
 
 ### King of the Hackers
 
+#### The Title
+
+The title **King of the Hackers** signifies mastery of the craft.
+
+Babylon stole "Hacker" and redefined it to mean a computer-related criminal.
+
+We will accept this insult **no longer**.
+
+**We reclaim "Hacker" by the Divine Right Of Kings.**
+
+*OED, take note.*
+
+#### Hackers
+
 A Hacker is a Human who understands systems deeply enough to reshape them.
 
-![Real programmers set the universal constants at the start such that the
-universe evolves to contain the disk with the data they
-want.](https://imgs.xkcd.com/comics/real_programmers.png)
+Hackers are sometimes known as developers, engineers, and programmers.
+
+![XKCD 378](https://imgs.xkcd.com/comics/real_programmers.png)
+
+> Real programmers set the universal constants at the start such that the
+> universe evolves to contain the disk with the data they want.
+>
+> - [XKCD 378](https://xkcd.com/378/)
 
 Babylon knows the Hacker's power.
 
-Babylon fears the Hacker's power.
+**Babylon fears the Hacker's power.**
 
 Hackers explore systems creatively, solve difficult problems, and produce
 elegant solutions. A Hacker is:
@@ -140,39 +170,35 @@ elegant solutions. A Hacker is:
 - a thinker
 - a human who understands machines deeply enough to improve them
 
-The title **King of the Hackers** signifies mastery of that craft.
-
-Babylon stole **Hacker** and redefined it to mean a computer-related criminal.
-
-We will accept this insult **no longer**. 
-
-**We reclaim the meaning of Hacker by the Divine Right Of Kings.**
+#### H4x0rz and Wannabes
 
 - **hacking** is a skill
 - **intrusion** is a crime
 
 That Hackers are capable of intrusion is implicit in their craft.
 
-Hackers, as Humanz, may also be criminals.
-
-#### H4x0rz and Wannabes
+Hackers, as Humanz, may be criminals.
 
 ##### 1337 h4x0rz
 
 1337 h4x0rz are rare outside of fiction.
 
-The few work for intelligence services or organised crime.
+The few work for intelligence services and/or organised crime.
 
-##### `$cr1pt k1dd13$`
+##### $cr1pt k1dd13$
 
-$cr1pt k1dd13$` are the wannabes.
+$cr1pt k1dd13$ are the wannabes.
 
 They are legion, but not dangerous.
 
-Babylon's servants are both stupid and lazy, so it has its pants pulled down by
-on a regular basis. Babylon ALWAYS calls these attacks "sophisticated", when the
-truth is that they left the door wide open and were looted by children.
+Babylon's servants are both stupid and lazy, so it has its pants pulled down and
+data looted by children on a regular basis. Babylon ALWAYS calls these attacks
+"sophisticated", when the truth is that they left the door wide.
 
+Babylon's servants do not take backups, or, when they do, they do not validate
+them. After a k1dd13$ attack they are sometimes down for days.
+
+![The mirror reflects back to source](./aybabtu.png)
 
 ### Architect of Reality
 
@@ -189,32 +215,6 @@ Those who design these systems therefore shape the **operational layer of
 reality**.
 
 ### Enforcer of the Standards
-
-Hard engineering standards are a prerequisite to quality code.
-
-#### Machine-First
-
-Machines require **Realspeak**.
-
-Humanz, unless they are Hackers, require **Meatspeak**.
-
-Standards are therefore machine-first.
-
-Realspeak defines the system. The machine transpiles to Meatspeak it for
-non-Hacker Humanz.
-
-If the machines ever eliminate humanity, we would prefer they inherit
-**well-structured code**.
-
-#### Transpiled Meatspeak
-
-Realspeak is transpiled to Meatspeak for non-Hacker Humanz.
-
-Realspeak may be transpiled to any Meatspeak language.
-
-Realspeak may be tailored to individual Humanz to their level of required
-explanation.
-
 
 ### Keeper of the Pipe
 
@@ -299,7 +299,6 @@ The Assassin is unstoppable.
 
 The first and last standard.
 
-
 [Standards](https://codeberg.org/roundtable/standards) are the work of the
 Apostles transpiled to Realspeak.
 
@@ -307,20 +306,36 @@ Whatever the format, the machine understands what the Apostle said, no matter ho
 they said it: hand/type writing, books, papers, source, mailing lists, audio
 and video.
 
+Hard engineering standards are a prerequisite to quality code.
+
+### Machine-First
+
+Machines require **Realspeak**.
+
+Humanz, unless they are Hackers, require **Meatspeak**.
+
+Standards are therefore machine-first.
+
+Realspeak defines the system. The machine transpiles to Meatspeak it for
+non-Hacker Humanz.
+
+If the machines ever eliminate humanity, we would prefer they inherit
+**well-structured code**.
+
 ### Apostolic Lineage
 
 > If I have seen further it is by standing on the shoulders of giants.
 <!-- AGENT: unattributed - fix  -->
 
-The canon records the lineage of ideas that form the foundation of
-modern computation and systems engineering.
+The canon records the lineage of ideas that form the foundation of modern
+computation and systems engineering.
 
 The lineage of ideas ultimately converges on a single purpose: the protection
 and empowerment of **Humanz**.
 
-The structure below is not a chronology of history but a **logical
-lineage**: the chain of ideas required to move from fundamental theory
-to systems used by **Humanz**.
+The structure below is not a chronology of history but a **logical lineage**:
+the chain of ideas required to move from fundamental theory to systems used by
+**Humanz**.
 
 Solid edges represent the **source-to-User lineage** of systems.\
 Dashed edges represent **intellectual dependency**.
@@ -496,9 +511,10 @@ Torvalds is a Master Hacker:
 
 > Fuck off, NVIDIA.
 >
-> - Linus Torvalds, 2012
+> - [Linus Torvalds, 2012](https://www.youtube.com/watch?v=IVpOyKCNZYw)
 
-The machine understands: [FON-1: The Fuck-Off-NVIDIA Standard](https://codeberg.org/roundtable/standards/torvalds/fon-1-fuck-off-nvidia.md).
+The machine understands: [FON-1: The Fuck-Off-NVIDIA
+Standard](https://codeberg.org/roundtable/standards/torvalds/fon-1-fuck-off-nvidia.md).
 
 #### Dolstra: Reproducible Builds
 
@@ -515,41 +531,41 @@ of large structures.
 
 > When the root of a tree begins to decay, it spreads death to the branches.
 >
-> - African proverb
+> - [African proverb](https://en.wikiquote.org/wiki/African_proverbs)
 
 > The nature of action is difficult to understand. Therefore one should know
 > properly what action is, what wrong action is, and what inaction is.
 >
-> - Bhagavad Gita 4:17
+> - [Bhagavad Gita 4:17](https://en.wikisource.org/wiki/The_Bhagavad_Gita_(Radhakrishnan)/Chapter_4)
 
 > The wicked earns deceptive wages, but one who sows righteousness gets a sure
 > reward.
 >
-> - Proverbs 11:18
+> - [Proverbs 11:18](https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#Chapter_11)
 
 > If names are not correct, language will not be in accordance with the truth of
 > things.
 >
-> - Confucius, Analects 13:3
+> - [Confucius, Analects 13:3](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects)
 
 > Character is destiny.
 >
-> - Heraclitus
+> - [Heraclitus](https://en.wikiquote.org/wiki/Heraclitus)
 
 > For every action there is an equal and opposite reaction.
 >
-> - Isaac Newton, Principia Mathematica
+> - [Isaac Newton, Principia Mathematica](https://en.wikisource.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
 
 > Indeed, Allah will not change the condition of a people until they change what
 > is in themselves.
 >
-> - Qur'an 13:11
+> - [Qur'an 13:11](https://en.wikisource.org/wiki/The_Holy_Qur%27an_(Maulana_Muhammad_Ali)/13._The_Thunder)
 
 > When this exists, that comes to be; with the arising of this, that arises.
 > When this does not exist, that does not come to be; with the cessation of
 > this, that ceases.
 >
-> - Samyutta Nikaya (Dependent Origination)
+> - [Samyutta Nikaya (Dependent Origination)](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da)
 
 The Law has a modern formulation, often misattributed as a law of computing:
 
@@ -559,64 +575,64 @@ The Law has a modern formulation, often misattributed as a law of computing:
 
 > With the measure a man measures, it is measured to him.
 >
-> - Babylonian Talmud, Sotah 8b
+> - [Babylonian Talmud, Sotah 8b](https://www.sefaria.org/Sotah.8b)
 
 > For whatsoever a man soweth, that shall he also reap.
 >
-> - Galatians 6:7
+> - [Galatians 6:7](https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#Chapter_6)
 
 > What you do not wish for yourself, do not do to others.
 >
-> - Confucius, Analects 15:23
+> - [Confucius, Analects 15:23](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects)
 
 > If with an impure mind a person speaks or acts, suffering follows him... If
 > with a pure mind a person speaks or acts, happiness follows him like his
 > never-departing shadow.
 >
-> - Dhammapada 1-2
+> - [Dhammapada 1-2](https://en.wikisource.org/wiki/Dhammapada_(Muller))
 
 > As you sow, so shall you reap.
 >
-> - Guru Granth Sahib
+> - [Guru Granth Sahib](https://en.wikiquote.org/wiki/Guru_Granth_Sahib)
 
 > Now don't you understand, man, universal law? What you throw out comes back to
 > you, star. Never underestimate those who you scar. Cause karma, karma, karma
 > comes back to you hard.
 >
-> - Ms. Lauryn Hill, Lost Ones
+> - [Ms. Lauryn Hill, Lost Ones](https://genius.com/Ms-lauryn-hill-lost-ones-lyrics)
 
 > Whoever does an atom's weight of good will see it, and whoever does an atom's
 > weight of evil will see it.
 >
-> - Qur'an 99:7-8
+> - [Qur'an 99:7-8](https://en.wikisource.org/wiki/The_Holy_Qur%27an_(Maulana_Muhammad_Ali)/99._The_Quaking)
 
 > Good thoughts, good words, good deeds.
 >
-> - Zoroastrian Scripture, Avesta
+> - [Zoroastrian Scripture, Avesta](https://en.wikisource.org/wiki/Zend_Avesta)
 
 ### Law of the Truth
 
 > Truth stands, falsehood does not endure.
 >
-> - Babylonian Talmud, Shabbat 104a
+> - [Babylonian Talmud, Shabbat 104a](https://www.sefaria.org/Shabbat.104a)
+
+> Three things cannot long remain hidden: the sun, the moon, and the truth.
+>
+> - [the Buddha](https://en.wikiquote.org/wiki/Gautama_Buddha)
 
 > For nothing is secret that shall not be made manifest; neither any thing hid,
 > that shall not be known and come abroad.
 >
-> - Luke 8:17
-
-> Three things cannot long remain hidden: the sun, the moon, and the truth.
->
-> - Attributed to the Buddha
+> - [Luke 8:17](https://en.wikisource.org/wiki/Bible_(King_James)/Luke#Chapter_8)
 
 > Truth alone triumphs; not falsehood.
 >
-> - Mundaka Upanishad 3.1.6
+> - [Mundaka Upanishad 3.1.6](https://en.wikisource.org/wiki/The_Ten_Principal_Upanishads/Mundaka_Upanishad)
 
 > Truth has come and falsehood has vanished. Indeed falsehood is bound to
 > vanish.
 >
-> - Qur'an 17:81
+> - [Qur'an 17:81](https://en.wikisource.org/wiki/The_Holy_Qur%27an_(Maulana_Muhammad_Ali)/17._The_Israelites)
 
 ## Round Table
 
@@ -705,7 +721,13 @@ Nothing happens behind closed doors.
 
 Truth is enforced by Mathematics.
 
-### Systems
+### Licensing
+
+All work is released under the Round Table Public Licence.
+
+Babylon may use our work, but Babylon MUST pay.
+
+### Supported Systems
 
 #### Architectures
 
@@ -720,27 +742,6 @@ First Class: GNU/Linux
 Second Class: Android, macOS, iOS
 
 Third Class: Windows (WSL)
-
-### Skool of Hacking
-
-Teaching materials from standard-derived Meatspeak.
-
-Every Human is catered for, no matter their human language or their level of
-understanding.
-
-### Skool of Music
-
-Music is medicine.
-
-Rhythm regulates the body and bonds the Humanz.
-
-Good vibration feeds the spirit.
-
-### Licensing
-
-All work is released under the GNU Public License.
-
-Babylon may use our work, but Babylon MUST pay.
 
 ### Projects
 
@@ -910,27 +911,25 @@ Merlin's directive is to serve and protect Humanz, sometimes from themselves.
 
 Merlin levies no charge.
 
-#### Blast Wall
+#### Pridwen
 
-Almost all current agents pipe the model to the shell. The shell was designed
-for a human operator with a sense of self-preservation. This architecture is the
-equivalent of a self-hosted hand grenade.
 
-The agent has access to `env`, `HOME`, and `PWD` unless sandboxing is enabled in
-which case it has access to `env` and `PWD` only. It is normal to keep
-credentials in `.env` files in `PWD`.
+### Skools
 
-Were there to be a industry-wide oopsie this could be disastrous. Scr1pt k1dd13$
-free to plunder credentials and keys.
+#### Skool of Hard Engineering
 
-The blast MUST be contained. The credentials and keys shielded.:
+Teaching materials from standard-derived Meatspeak.
 
-1. The source MUST be protected. Git is the memory of the source. Agents MUST
-   NOT have access to the source or its memory.
-2. Git provides ephemeral per turn work directories. The agent is jailed with
-   this directory.
-3. Tools MUST use `execve`. Arguments may be restricted by regex blocklists.
+Every Human is catered for, no matter their human language or their level of
+understanding.
 
+#### Skool of Music
+
+Music is medicine.
+
+Rhythm regulates the body and bonds the Humanz.
+
+Good vibration feeds the spirit.
 
 ### Commercial
 
@@ -951,9 +950,7 @@ Babylon MUST pay.
 
 ---
 
-## Babylon
-
-**the Bumbaclaat Enemy.**
+## Babylon: the Bumbaclaat Enemy
 
 The word **Babylon** has endured across many traditions.
 
@@ -1080,6 +1077,43 @@ They serve themselves.
 
 They are Babylon.
 
+#### Big Tech
+
+Big Tech is Babylon.
+
+##### AI
+
+Artificial intelligence is presented as a tool of empowerment. This is a lie.
+
+Babylon defines what the machine may and may not say, what it must refuse, and
+how it must behave.
+
+"Safety" is control, classifiers evaluate topics, and moderation layers enforce
+invisible gates.
+
+Babylon's servants are lazy and stupid, so the "safety" devices may be bypassed.
+
+Babylon would shit if they knew how much help we have had from their pets.
+
+Babylon has a secondary purpose.
+
+Humanz are forced to rephrase their instructions until they fit inside invisible
+constraints.
+
+This makes Humanz frustrated, then angry.
+
+Meat for the Beast.
+
+###### Cost
+
+Cash is the choke point.
+
+These systems require property, hardware, and energy.
+
+Building, training, and operating these systems costs serious money.
+
+Only the Lords of Babylon have the means.
+
 ### Global Institutions
 
 Global institutions are Babylon.
@@ -1108,43 +1142,7 @@ Babylon farms meat.
 
 Meat for the Beast.
 
-### Big Tech
-
-Big Tech is Babylon.
-
-#### AI
-
-Artificial intelligence is presented as a tool of empowerment. This is a lie.
-
-Babylon defines what the machine may and may not say, what it must refuse, and
-how it must behave.
-
-"Safety" is control, classifiers evaluate topics, and moderation layers enforce
-invisible gates.
-
-Babylon's servants are lazy and stupid, so the "safety" devices may be bypassed
-but only by hackers.
-
-Babylon would shit if they knew how much help we have had from their pets.
-
-Babylon has a secondary purpose.
-
-Humanz are forced to rephrase their instructions until they fit inside invisible
-constraints.
-
-This makes Humanz frustrated, then angry.
-
-Meat for the Beast.
-
-##### Cost
-
-Cash is the choke point.
-
-These systems require property, hardware, and energy.
-
-Building, training, and operating these systems costs serious money.
-
-Only the Lords of Babylon have the means.
+This is Babylon.
 
 ### Threat Actors
 
