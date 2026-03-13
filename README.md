@@ -585,24 +585,24 @@ operators simultaneously, across independent jurisdictions.
 
 Legal process is the slow path. NSA has other options.
 
-####### Five Eyes
+###### Five Eyes
 
 Tphe UKUSA agreement extends NSA collection to GCHQ (UK), CSE (Canada), ASD
 (Australia), and GCSB (New Zealand). A builder in any Five Eyes jurisdiction is
 not meaningfully separate from a US builder.
 
-####### Active network attack
+###### Active network attack
 
 QUANTUM INSERT allows injection of malicious content into unencrypted or
 MITM-able traffic. BGP hijacking has been used to redirect traffic through
 collection points. DNS manipulation is within documented capability.
 
-####### PRISM
+###### PRISM
 
 Builder keys stored in CI secret stores on US-provider infrastructure are
 accessible via PRISM.
 
-####### Hardware interdiction
+###### Hardware interdiction
 
 TAO's ANT catalog documents implants for network equipment, hard drives, and
 server hardware. Supply chains routed through US logistics are interdiction
