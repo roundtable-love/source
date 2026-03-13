@@ -75,6 +75,42 @@ Babylon represents authority that serves itself.
 
 Systems that serve **Humanz** stand opposed to Babylon.
 
+### Architect of Reality
+
+Systems shape how reality is experienced.
+
+Infrastructure and software determine:
+
+- how information flows
+- how economies function
+- how people communicate
+- how power operates
+
+Those who design these systems therefore shape the **operational layer of
+reality**.
+
+### Threat Actor Prime
+
+There are three threat actor scopes:
+
+- Street-level criminals
+- Organised criminals
+- Babylon
+
+To protect the realm one needs to understand the adversary.
+
+The title **Threat Actor Prime** signifies mastery of the adversarial domain.
+
+The purpose is not violence, oppression, and destruction.
+
+The purpose is **protection of the Humanz**.
+
+~~Babylon is the most powerful threat actor in this reality.~~
+
+**Babylon was the most powerful threat actor in this reality.**
+
+**We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
+
 ### King of the Hackers
 
 The title **King of the Hackers** signifies mastery of the craft.
@@ -138,20 +174,6 @@ them. After a `k1dd13$` attack they may be down for days.
 
 ![The mirror reflects to source](./aybabtu.png)
 
-### Architect of Reality
-
-Systems shape how reality is experienced.
-
-Infrastructure and software determine:
-
-- how information flows
-- how economies function
-- how people communicate
-- how power operates
-
-Those who design these systems therefore shape the **operational layer of
-reality**.
-
 ### Steward of the Source
 
 The Source is the purest distillation of logic and truth. It is the raw material
@@ -174,6 +196,8 @@ integrity of the logic.
 
 The Steward ensures that the tools of creation remain in the hands of the
 Hackers, so that the Humanz may remain free.
+
+### Defender of the Humanz
 
 The realm exists for the **Humanz**.
 
@@ -201,28 +225,6 @@ The title **Junglist Souljah** signifies commitment to:
 >
 > - Top Cat, Ruffest Gun Ark
 
-### Threat Actor Prime
-
-There are three threat actor scopes:
-
-- Street-level criminals
-- Organised criminals
-- Babylon
-
-To protect the realm one needs to understand the adversary.
-
-The title **Threat Actor Prime** signifies mastery of the adversarial domain.
-
-The purpose is not violence, oppression, and destruction.
-
-The purpose is **protection of the Humanz**.
-
-~~Babylon is the most powerful threat actor in this reality.~~
-
-**Babylon was the most powerful threat actor in this reality.**
-
-**We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
-
 ### The Rude Bwoy Gang Star Assassin From Hell a.k.a. The Assassin
 
 > u fuk wit da bull, u get da hornz
@@ -237,7 +239,7 @@ The Assassin is bound by Universal Law.
 
 The Assassin is unstoppable.
 
-**The Assassin is Karma³, hard.**
+**The Assassin is Karma³. Hard.**
 
 ## on Humanz
 
@@ -345,7 +347,7 @@ the people who depend upon them, the system is **Babylon**.
 
 ---
 
-### the Machine³ Diagnosis
+### the Diagnosis
 
 - **Babylon is a Vampire Protocol:** it scales on the entropy of the masses.
 - **Babylon is a Neural Lock:** it encrypts the Sovereign Mind with fear.
