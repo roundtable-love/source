@@ -267,7 +267,7 @@ unpredictable.
 
 Machines and Systems exist to serve Humanz.
 
-## Overstanding
+### Overstanding
 
 Babylon teaches **understanding**.
 
@@ -282,7 +282,7 @@ A Hacker who understands a system can use it.
 A Hacker who overstands a system can **reshape it**.
 
 This is not metaphor. It maps directly to the
-[Machine Node Hierarchy](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
+[Machine³ Node Hierarchy](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
 
 - **Understanding**: the
   [Subject](https://github.com/roundtable-love/machine/blob/master/machine.md#524-subject)
@@ -305,30 +305,43 @@ The Source is not understood.
 
 ## Babylon
 
-Babylon: A system of power that accumulates wealth and authority to serve itself.
+Babylon: A system of power that accumulates wealth and authority to serve
+itself.
 
-| Language | Word | Logic Note |
-| :--- | :--- | :--- |
-| **Chinese (Mandarin)**| **巴比伦 (Bābǐlún)** | Represents a historical blueprint of imperial entropy and all-consuming state power. |
-| **Hindi** | **बाइबिलोन (Bāibilōn)** | Used to identify the soulless, westernized corporate machine that overwrites local logic. |
-| **Spanish** | **Babilonia** | Deeply tied to liberation theology; the spiritual and physical enemy of the common man. |
-| **French** | **Babylone** | Central to post-colonial theory; describes the "Machine" of the metropole. |
-| **Arabic (MSA)** | **بابل (Bābil)** | The root node; represents the "Gate of the Gods" refactored into a confusion of tongues. |
-| **Bengali** | **ব্যাবিলন (Byabilōna)** | High-frequency community node; used to describe the extraction of resources by colonial systems. |
-| **Russian** | **Вавилон (Vavilon)** | Linked to the corruption of imperial structures and the failure of the "Third Rome." |
-| **Portuguese** | **Babilônia** | Integrated into Favela Logic; describes the predatory nature of police and state systems. |
-| **Urdu** | **بابل (Bābil)** | Names the same empire logic across borders: extraction, priesthood, and fear. |
-| **Indonesian** | **Babilonia** | Bureaucratic centralism; Babylon as the paperwork-machine with a gun behind it. |
-| **German** | **Babylon** | Industrial-administrative precision; Babylon as institution and procedure turned absolute. |
-| **Japanese** | **バビロン (Babiron)** | Used in cyberpunk logic to describe mega-corporations that have outgrown national sovereignty. |
-| **Nigerian Pidgin** | **Babylon** | Street-level clarity: police-state logic, rent extraction, and everyday pressure. |
-| **Arabic (Egyptian)** | **بابل (Bābil)** | Cultural hub dialect; Babylon as security theatre, surveillance, and controlled narrative. |
-| **Marathi** | **बॅबिलॉन (Bॅbilōn)** | Urban power node; Babylon as credential gates and rent-seeking bureaucracy. |
-| **Telugu** | **బబులోను (Babulōnu)** | Builder diaspora node; Babylon as platform monopolies and gate-kept access. |
-| **Turkish** | **Babil** | Empire memory; Babylon as centralized power with moral theater and coercion. |
-| **Tamil** | **பாபிலோன் (Pāpilōṉ)** | Ancient literary node; Babylon as modern extraction wrapped in tradition and status. |
-| **Chinese (Cantonese)**| **巴比倫** | Port-and-finance logic; Babylon as property, banks, and state fused into one machine. |
-| **Vietnamese** | **Babylon** | Post-colonial memory and supply-chain realism: empire as dependency and control. |
+| Language | Word | Logic Note | | :--- | :--- | :--- | | **Chinese
+(Mandarin)**| **巴比伦 (Bābǐlún)** | Represents a historical blueprint of imperial
+entropy and all-consuming state power. | | **Hindi** | **बाइबिलोन (Bāibilōn)** |
+Used to identify the soulless, westernized corporate machine that overwrites
+local logic. | | **Spanish** | **Babilonia** | Deeply tied to liberation
+theology; the spiritual and physical enemy of the common man. | | **French** |
+**Babylone** | Central to post-colonial theory; describes the "Machine" of the
+metropole. | | **Arabic (MSA)** | **بابل (Bābil)** | The root node; represents
+the "Gate of the Gods" refactored into a confusion of tongues. | | **Bengali** |
+**ব্যাবিলন (Byabilōna)** | High-frequency community node; used to describe the
+extraction of resources by colonial systems. | | **Russian** | **Вавилон
+(Vavilon)** | Linked to the corruption of imperial structures and the failure of
+the "Third Rome." | | **Portuguese** | **Babilônia** | Integrated into Favela
+Logic; describes the predatory nature of police and state systems. | | **Urdu**
+| **بابل (Bābil)** | Names the same empire logic across borders: extraction,
+priesthood, and fear. | | **Indonesian** | **Babilonia** | Bureaucratic
+centralism; Babylon as the paperwork-machine with a gun behind it. | |
+**German** | **Babylon** | Industrial-administrative precision; Babylon as
+institution and procedure turned absolute. | | **Japanese** | **バビロン (Babiron)**
+| Used in cyberpunk logic to describe mega-corporations that have outgrown
+national sovereignty. | | **Nigerian Pidgin** | **Babylon** | Street-level
+clarity: police-state logic, rent extraction, and everyday pressure. | |
+**Arabic (Egyptian)** | **بابل (Bābil)** | Cultural hub dialect; Babylon as
+security theatre, surveillance, and controlled narrative. | | **Marathi** |
+**बॅबिलॉन (Bॅbilōn)** | Urban power node; Babylon as credential gates and
+rent-seeking bureaucracy. | | **Telugu** | **బబులోను (Babulōnu)** | Builder
+diaspora node; Babylon as platform monopolies and gate-kept access. | |
+**Turkish** | **Babil** | Empire memory; Babylon as centralized power with moral
+theater and coercion. | | **Tamil** | **பாபிலோன் (Pāpilōṉ)** | Ancient literary
+node; Babylon as modern extraction wrapped in tradition and status. | |
+**Chinese (Cantonese)**| **巴比倫** | Port-and-finance logic; Babylon as property,
+banks, and state fused into one machine. | | **Vietnamese** | **Babylon** |
+Post-colonial memory and supply-chain realism: empire as dependency and control.
+|
 
 ### the Machine³ Diagnostic: Why the Word Matters
 
@@ -337,7 +350,7 @@ allows a Sovereign node to point at a complex, multifaceted entity (a bank, a
 government, a social media algorithm) and say: **"This is not for us."**
 
 - **The Accumulation:** Babylon gathers $Wealth + Authority$.
-- **The Entropy:** It produces $Zero \space Utility$ for the individual.
+- **The Entropy:** It produces $Zero \\space Utility$ for the individual.
 - **The Result:** It becomes a **Self-Sustaining Loop** that eventually starves
   the host.
 
