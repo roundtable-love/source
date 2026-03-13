@@ -320,31 +320,116 @@ the people who depend upon them, the system is **Babylon**.
 
 ### the Legacy Logs
 
+Babylon is not just a place-name.
+
+It is a repeating structure: concentrated power, moral theater, extraction, and
+violence performed as order.
+
+Foundational texts across empires, republics, and revolutions describe this
+pattern directly, even when they use other names.
+
 > Jerusalem on the right hand shall be, Babylon on the left... Two loves make up
 > these two cities.
 >
 > - **[Augustine, Exposition on Psalm 65](https://www.newadvent.org/fathers/1801065.htm)**
 
+The city of God and the city of domination are framed as rival love-structures,
+not just rival locations.
+
 > They were exiled to Babylonia, and the Divine Presence went with them.
 >
 > - **[Babylonian Talmud, Megillah 29a](https://www.sefaria.org/Megillah.29a)**
+
+Even under imperial displacement, power is not absolute; spirit and memory can
+survive the machine.
 
 > We refuse to be what you wanted us to be.
 >
 > - **[Bob Marley & The Wailers, Babylon System](https://www.youtube.com/watch?v=nJ1eR3UNPqU)**
 
+Babylon's control depends on identity capture; refusal is the first act of
+liberation.
+
 > There's no fire like passion... no river like craving.
 >
 > - **[Dhammapada 251](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.than.html#dhp-251)**
+
+Inner appetite scales into outer domination; empires externalize ungoverned
+desire.
+
+> "If men were angels, no government would be necessary."
+>
+> - **[James Madison, *Federalist No. 51*](https://en.wikisource.org/wiki/The_Federalist_(Lodge)/No._51)**
+
+The architecture of restraint exists because power drifts toward domination by
+default.
+
+> "Power tends to corrupt, and absolute power corrupts absolutely."
+>
+> - **[Lord Acton, Letter to Bishop Mandell Creighton (1887)](https://en.wikisource.org/wiki/Letter_to_Mandell_Creighton,_1887)**
+
+When power becomes answerable only to itself, Babylon is complete.
+
+> "It is a constant experience that every man invested with power is apt to
+> abuse it, and to carry his authority as far as it will go."
+>
+> - **[Montesquieu, *The Spirit of Laws* (Book XI, Chapter 4)](https://en.wikisource.org/wiki/The_Spirit_of_Laws/Book_11/Chapter_4)**
+
+Unchecked power scales until it captures institutions and rewrites law as
+permission for itself.
+
+> "It is much safer to be feared than loved, if one has to choose."
+>
+> - **[Niccolò Machiavelli, *The Prince* (Chapter XVII)](https://en.wikisource.org/wiki/The_Prince_(Ninian_Hill_Thomson)/Chapter_17)**
+
+Power seeking survival learns quickly to prefer fear over consent.
+
+> "This and no other is the root from which a tyrant springs; when he first
+> appears he is a protector."
+>
+> - **[Plato, *The Republic* (Book VIII, 565d)](https://en.wikisource.org/wiki/The_Republic_(Jowett)/Book_8)**
+
+Babylon often arrives as "security" and "protection," then mutates into rule by
+fear.
 
 > ...the two angels at Babylon, Harut and Marut.
 >
 > - **[Qur'an 2:102](https://www.quranv.com/en/2/102)**
 
+Babylon marks a testing ground where knowledge can be used for wisdom or
+corruption.
+
 > MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
 > EARTH.
 >
 > - **[Revelation 17:5 (Bible KJV)](https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17)**
+
+At full scale, Babylon becomes self-replicating corruption: a system that births
+systems in its own image.
+
+> "Auferre, trucidare, rapere falsis nominibus imperium; atque, ubi solitudinem
+> faciunt, pacem appellant."
+>
+> "To plunder, butcher, steal, these things they misname empire; and where they
+> make a wilderness, they call it peace."
+>
+> - **[Tacitus, *Agricola* (30)](https://en.wikisource.org/wiki/Agricola_(Church_and_Brodribb)/30)**
+
+Babylon brands domination as civilization, then calls the wreckage stability.
+
+> "Covenants, without the sword, are but words, and of no strength to secure a
+> man at all."
+>
+> - **[Thomas Hobbes, *Leviathan* (Part II, Chapter XVII)](https://en.wikisource.org/wiki/Leviathan_(1651)/Part_2/Chapter_17)**
+
+States legitimize concentrated force as the price of order; Babylon emerges when
+that force loses limits.
+
+> "The strong do what they can and the weak suffer what they must."
+>
+> - **[Thucydides, *History of the Peloponnesian War* (Melian Dialogue, 5.89)](https://en.wikisource.org/wiki/History_of_the_Peloponnesian_War/Book_5#89)**
+
+Realpolitik without moral constraint is Babylon's baseline operating mode.
 
 ---
 
