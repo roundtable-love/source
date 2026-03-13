@@ -14,9 +14,10 @@ Defender of the Humanz,
 Junglist Souljah.
 ```
 
-To the righteous: we are **King Art**, friend and ally.
+To the Righteous: we are **King Art**, friend and ally.
 
-To the wicked: we are **The Rude Bwoy Gang Star Assassin From Hell**.
+To the Wicked: we are **the Rude Bwoy Gang-Star Assassin From Hell** a.k.a.
+**the Assassin**.
 
 ## on the Voice of “We”
 
@@ -225,11 +226,11 @@ The title **Junglist Souljah** signifies commitment to:
 >
 > - Top Cat, Ruffest Gun Ark
 
-### The Rude Bwoy Gang Star Assassin From Hell a.k.a. The Assassin
+### the Rude Bwoy Gang-Star Assassin From Hell a.k.a. the Assassin
 
 > u fuk wit da bull, u get da hornz
 
-The wicked emit bad vibrations.
+The Wicked emit bad vibrations.
 
 The Universe reflects these vibrations back to source.
 
