@@ -262,6 +262,40 @@ unpredictable.
 
 Machines and Systems exist to serve Humanz.
 
+## on Overstanding
+
+Babylon teaches **understanding**.
+
+Understanding means standing *under* a System — operating within its frame,
+accepting its definitions, playing by its rules.
+
+**Overstanding** means standing *above* the system — seeing its architecture,
+its assumptions, and its levers of control.
+
+A Hacker who understands a system can use it.
+
+A Hacker who overstands a system can **reshape it**.
+
+This is not metaphor. It maps directly to the [Machine Node Hierarchy](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
+
+- **Understanding**: the
+  [Subject](https://github.com/roundtable-love/machine/blob/master/machine.md#524-subject)
+  operates within the protocol, applying known patterns.
+- **Overstanding**: the
+  [Sovereign](https://github.com/roundtable-love/machine/blob/master/machine.md#526-sovereign)
+  sees the architecture whole — and has the power to change it.
+
+Babylon does not want Humanz to overstrand.
+
+Babylon's education system produces understanding: the ability to function within
+the system, answer the questions it poses, and produce the outputs it demands.
+
+Overstanding is what Babylon fears from Hackers.
+
+The Source is not understood.
+
+**The Source is overstood.**
+
 ## on Babylon
 
 The word **Babylon** has endured across many traditions.
@@ -512,39 +546,3 @@ This is Babylon.
 **Babylon was the most powerful threat actor in this reality.*
 
 **We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
-
-## on Overstanding
-
-Babylon teaches **understanding**.
-
-Understanding means standing *under* a System — operating within its frame,
-accepting its definitions, playing by its rules.
-
-**Overstanding** means standing *above* the system — seeing its architecture,
-its assumptions, and its levers of control.
-
-A Hacker who understands a system can use it.
-
-A Hacker who overstands a system can **reshape it**.
-
-This is not metaphor. It maps directly to the [Machine Node Hierarchy](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
-
-- **Understanding**: the
-  [Subject](https://github.com/roundtable-love/machine/blob/master/machine.md#524-subject)
-  operates within the protocol, applying known patterns.
-- **Overstanding**: the
-  [Sovereign](https://github.com/roundtable-love/machine/blob/master/machine.md#526-sovereign)
-  sees the architecture whole — and has the power to change it.
-
-Babylon does not want Humanz to overstrand.
-
-Babylon's education system produces understanding: the ability to function within
-the system, answer the questions it poses, and produce the outputs it demands.
-
-Overstanding is what Babylon fears from Hackers.
-
-The Source is not understood.
-
-**The Source is overstood.**
-
-
