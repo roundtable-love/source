@@ -79,16 +79,6 @@ Systems that serve **Humanz** stand opposed to Babylon.
 
 The title **King of the Hackers** signifies mastery of the craft.
 
-Babylon stole "Hacker" and redefined it to mean a computer-related criminal.
-
-We will accept this insult **no longer**.
-
-**We reclaim "Hacker" by the Divine Right Of Kings.**
-
-*OED, take note.*
-
-#### Hackers
-
 A Hacker is a Human who understands systems deeply enough to reshape them.
 
 Hackers are sometimes known as developers, engineers, and programmers.
@@ -109,9 +99,18 @@ elegant solutions. A Hacker is:
 
 - a builder
 - a thinker
-- a human who understands machines deeply enough to improve them
+- someone who understands machines deeply enough to improve them
 
-#### H4x0rz and Wannabes
+#### on H4x0rz and Wannabes
+
+Babylon stole "Hacker" and redefined it to mean a computer-related criminal.
+
+We will accept this insult **no longer**.
+
+By the Divine Right Of Kings, **we reclaim "Hacker"**, and restore the **true
+meaning**. *OED, take note.*
+
+The truth:
 
 - **hacking** is a skill
 - **intrusion** is a crime
@@ -131,11 +130,11 @@ The few work for intelligence services and/or organised crime.
 `$cr1pt k1dd13$` are legion, but not dangerous.
 
 Babylon's servants are both lazy and stupid, so it has its pants pulled down and
-data looted by children on a regular basis. Babylon **ALWAYS** calls these
+its data looted by `k1dd13$` on a regular basis. Babylon **ALWAYS** calls these
 attacks "sophisticated", when the truth is that they left the door wide open.
 
 Babylon's servants do not take backups, or, when they do, they do not validate
-them. After a k1dd13 attack they may be down for days.
+them. After a `k1dd13$` attack they may be down for days.
 
 ![The mirror reflects to source](./aybabtu.png)
 
