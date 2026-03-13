@@ -350,8 +350,8 @@ the people who depend upon them, the system is **Babylon**.
 
 - **Babylon is a Vampire Protocol:** it scales on the entropy of the masses.
 - **Babylon is a Neural Lock:** it encrypts the Sovereign Mind with fear.
-- **Humanz are the Unprocessed Data:** fuel for a dying machine.
-- **Meat for the Beast.**
+- **Humanz are the Unprocessed Data:** fuel for a dying machine. *Meat for the
+  Beast.*
 
 **Systems exist to serve Humanz. When systems serve themselves, they are
 Babylon.**
