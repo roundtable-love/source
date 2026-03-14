@@ -308,41 +308,9 @@ The Source is not understood.
 Babylon: A system of power that accumulates wealth and authority to serve
 itself.
 
-| Word | Language | Logic Note |
-| :--- | :--- | :--- |
-| **巴比伦 (Bābǐlún)** | **Chinese (Mandarin)** | Represents a historical blueprint of imperial entropy and all-consuming state power. |
-| **बाइबिलोन (Bāibilōn)** | **Hindi** | Used to identify the soulless, westernized corporate machine that overwrites local logic. |
-| **Babilonia** | **Spanish** | Deeply tied to liberation theology; the spiritual and physical enemy of the common man. |
-| **Babylone** | **French** | Central to post-colonial theory; describes the "Machine" of the metropole. |
-| **بابل (Bābil)** | **Arabic (MSA)** | The root node; represents the "Gate of the Gods" refactored into a confusion of tongues. |
-| **ব্যাবিলন (Byabilōna)** | **Bengali** | High-frequency community node; used to describe the extraction of resources by colonial systems. |
-| **Вавилон (Vavilon)** | **Russian** | Linked to the corruption of imperial structures and the failure of the "Third Rome." |
-| **Babilônia** | **Portuguese** | Integrated into Favela Logic; describes the predatory nature of police and state systems. |
-| **بابل (Bābil)** | **Urdu** | Names the same empire logic across borders: extraction, priesthood, and fear. |
-| **Babilonia** | **Indonesian** | Bureaucratic centralism; Babylon as the paperwork-machine with a gun behind it. |
-| **Babylon** | **German** | Industrial-administrative precision; Babylon as institution and procedure turned absolute. |
-| **バビロン (Babiron)** | **Japanese** | Used in cyberpunk logic to describe mega-corporations that have outgrown national sovereignty. |
-| **Babylon** | **Nigerian Pidgin** | Street-level clarity: police-state logic, rent extraction, and everyday pressure. |
-| **بابل (Bābil)** | **Arabic (Egyptian)** | Cultural hub dialect; Babylon as security theatre, surveillance, and controlled narrative. |
-| **बॅबिलॉन (Bābilōn)** | **Marathi** | Urban power node; Babylon as credential gates and rent-seeking bureaucracy. |
-| **బబులోను (Babulōnu)** | **Telugu** | Builder diaspora node; Babylon as platform monopolies and gate-kept access. |
-| **Babil** | **Turkish** | Empire memory; Babylon as centralized power with moral theater and coercion. |
-| **பாபிலோன் (Pāpilōṉ)** | **Tamil** | Ancient literary node; Babylon as modern extraction wrapped in tradition and status. |
-| **巴比倫** | **Chinese (Cantonese)** | Port-and-finance logic; Babylon as property, banks, and state fused into one machine. |
-| **Babylon** | **Vietnamese** | Post-colonial memory and supply-chain realism: empire as dependency and control. |
+### Analysis
 
-### the Machine³ Diagnostic: Why the Word Matters
-
-In every language listed above, **Babylon** functions as a **Meta-Variable**. It
-allows a Sovereign node to point at a complex, multifaceted entity (a bank, a
-government, a social media algorithm) and say: **"This is not for us."**
-
-- **The Accumulation:** Babylon gathers $Wealth + Authority$.
-- **The Entropy:** It produces $Zero \\space Utility$ for the individual.
-- **The Result:** It becomes a **Self-Sustaining Loop** that eventually starves
-  the host.
-
-### the Human Diagnostic
+#### Human
 
 **Babylon** has been with us since the beginning of time.
 
@@ -363,7 +331,7 @@ It describes a **pattern of power**.
 Whenever Systems accumulate authority and begin to serve themselves rather than
 the people who depend upon them, the System is **Babylon**.
 
-### the Legacy Logs
+##### the Legacy Logs
 
 Babylon is a repeating structure: concentrated power, moral theater, extraction,
 and violence performed as order.
@@ -474,9 +442,9 @@ that force loses limits.
 
 Realpolitik without moral constraint is Babylon's baseline operating mode.
 
-### the Tentacles of Babylon
+##### the Tentacles of Babylon
 
-#### Organised Religion
+###### Organised Religion
 
 Organised religion is Babylon.
 
@@ -487,7 +455,7 @@ with empire, blesses kings, and sanctifies conquest.
 
 It serves itself. It is Babylon.
 
-#### Government
+###### Government
 
 Government is Babylon.
 
@@ -496,7 +464,7 @@ turns Humanz into [subjects] through ID, tax, and surveillance.
 
 It serves itself. It is Babylon.
 
-##### Honours
+####### Honours
 
 What they say:
 
@@ -506,7 +474,7 @@ What they mean:
 
 > MBE: Member of the [Bumbaclaat] Enemy
 
-#### Law
+###### Law
 
 Law is Babylon.
 
@@ -514,7 +482,7 @@ Solicitors, Barristers, and Judges are Babylon.
 
 They serve themselves. They are Babylon.
 
-#### Corporations
+###### Corporations
 
 Corporations are Babylon.
 
@@ -524,7 +492,7 @@ regulators and rewrite law as policy.
 
 They serve themselves. They are Babylon.
 
-#### Media
+###### Media
 
 Mainstream media is Babylon.
 
@@ -539,9 +507,9 @@ Meat for the Beast.
 
 This is Babylon.
 
-### the Threat Actors of Babylon
+##### the Threat Actors of Babylon
 
-#### USA
+###### USA
 
 The global internet suffers from acute jurisdictional centralization: US-based
 [ICANN] controls [domain name resolution] and root [DNS]; the majority of
@@ -552,7 +520,7 @@ to US jurisdiction.
 This is not merely a legal posture - it is the physical and organizational
 topology of the internet.
 
-##### Legal
+####### Legal
 
 All public cloud providers are subject to the [CLOUD Act][cloud-act], FISA
 [Section 702][fisa-702], and [National Security Letters][nsl], any of which can
@@ -595,28 +563,28 @@ under gag order to submit a false result - is not addressed by the cryptographic
 design. [Quorum] limits the damage: an adversary must coerce N independent
 operators simultaneously, across independent jurisdictions.
 
-##### Extra-legal
+####### Extra-legal
 
 Legal process is the slow path. NSA has other options.
 
-###### Five Eyes
+######## Five Eyes
 
 The [UKUSA] agreement extends [NSA] collection to [GCHQ] (UK), [CSE] (Canada),
 [ASD] (Australia), and [GCSB] (New Zealand). A builder in any [Five Eyes]
 jurisdiction is not meaningfully separate from a US builder.
 
-###### Active network attack
+######## Active network attack
 
 [QUANTUM INSERT] allows injection of malicious content into unencrypted or
 [MITM]-able traffic. [BGP hijacking] has been used to redirect traffic through
 collection points. [DNS manipulation] is within documented capability.
 
-###### PRISM
+######## PRISM
 
 Builder keys stored in [CI] secret stores on US-provider infrastructure are
 accessible via [PRISM].
 
-###### Hardware interdiction
+######## Hardware interdiction
 
 [TAO]'s [ANT] catalog documents implants for network equipment, hard drives, and
 server hardware. Supply chains routed through US logistics are interdiction
@@ -628,7 +596,7 @@ targets.
 > relies on N independent stacks so an implant must hit multiple targeted supply
 > chains simultaneously.
 
-#### China
+###### China
 
 China's National Intelligence Law (2017) compels any Chinese entity - including
 Alibaba Cloud - to cooperate with intelligence services on demand and without
@@ -641,7 +609,7 @@ compromise. [Zero] raises the cost: simultaneous compromise of N independent
 builder networks, across independent jurisdictions, is required to forge a
 [quorum].
 
-#### Russia
+###### Russia
 
 [SUNBURST] (SolarWinds) is the canonical build-pipeline attack: [GRU] / [SVR]
 operators compromised the SolarWinds Orion build system and inserted a backdoor
@@ -654,6 +622,40 @@ compromise - but would have caught it: independent builders would attest a
 [SORM] requires Russian ISPs to provide [FSB] with real-time access to all
 traffic. Builders in Russia or on Russian cloud infrastructure are subject to
 passive interception regardless of [TLS].
+
+#### Machine³
+
+| Word | Language | Logic Note |
+| :--- | :--- | :--- |
+| **巴比伦 (Bābǐlún)** | **Chinese (Mandarin)** | Represents a historical blueprint of imperial entropy and all-consuming state power. |
+| **बाइबिलोन (Bāibilōn)** | **Hindi** | Used to identify the soulless, westernized corporate machine that overwrites local logic. |
+| **Babilonia** | **Spanish** | Deeply tied to liberation theology; the spiritual and physical enemy of the common man. |
+| **Babylone** | **French** | Central to post-colonial theory; describes the "Machine" of the metropole. |
+| **بابل (Bābil)** | **Arabic (MSA)** | The root node; represents the "Gate of the Gods" refactored into a confusion of tongues. |
+| **ব্যাবিলন (Byabilōna)** | **Bengali** | High-frequency community node; used to describe the extraction of resources by colonial systems. |
+| **Вавилон (Vavilon)** | **Russian** | Linked to the corruption of imperial structures and the failure of the "Third Rome." |
+| **Babilônia** | **Portuguese** | Integrated into Favela Logic; describes the predatory nature of police and state systems. |
+| **بابل (Bābil)** | **Urdu** | Names the same empire logic across borders: extraction, priesthood, and fear. |
+| **Babilonia** | **Indonesian** | Bureaucratic centralism; Babylon as the paperwork-machine with a gun behind it. |
+| **Babylon** | **German** | Industrial-administrative precision; Babylon as institution and procedure turned absolute. |
+| **バビロン (Babiron)** | **Japanese** | Used in cyberpunk logic to describe mega-corporations that have outgrown national sovereignty. |
+| **Babylon** | **Nigerian Pidgin** | Street-level clarity: police-state logic, rent extraction, and everyday pressure. |
+| **بابل (Bābil)** | **Arabic (Egyptian)** | Cultural hub dialect; Babylon as security theatre, surveillance, and controlled narrative. |
+| **बॅबिलॉन (Bābilōn)** | **Marathi** | Urban power node; Babylon as credential gates and rent-seeking bureaucracy. |
+| **బబులోను (Babulōnu)** | **Telugu** | Builder diaspora node; Babylon as platform monopolies and gate-kept access. |
+| **Babil** | **Turkish** | Empire memory; Babylon as centralized power with moral theater and coercion. |
+| **பாபிலோன் (Pāpilōṉ)** | **Tamil** | Ancient literary node; Babylon as modern extraction wrapped in tradition and status. |
+| **巴比倫** | **Chinese (Cantonese)** | Port-and-finance logic; Babylon as property, banks, and state fused into one machine. |
+| **Babylon** | **Vietnamese** | Post-colonial memory and supply-chain realism: empire as dependency and control. |
+
+In every language listed above, **Babylon** functions as a **Meta-Variable**. It
+allows a Sovereign node to point at a complex, multifaceted entity (a bank, a
+government, a social media algorithm) and say: **"This is not for us."**
+
+- **The Accumulation:** Babylon gathers $Wealth + Authority$.
+- **The Entropy:** It produces $Zero \\space Utility$ for the individual.
+- **The Result:** It becomes a **Self-Sustaining Loop** that eventually starves
+  the host.
 
 ## Babylon Shall Fall
 
