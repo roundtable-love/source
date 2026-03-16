@@ -237,7 +237,7 @@ The Universe reflects these vibrations back to source.
 
 The Assassin IS NOT bound by Babylon law.
 
-The Assassin *IS*.
+The Assassin **IS**.
 
 > u fuk wit da bull, u get da hornz
 
