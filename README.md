@@ -178,8 +178,6 @@ attacks "sophisticated", when the truth is that they left the door wide open.
 Babylon's servants do not take backups, or, when they do, they do not validate
 them. After a `k1dd13$` attack they may be down for days.
 
-![The mirror reflects to source](./aybabtu.png)
-
 ### Steward of the Source
 
 The Source is the purest distillation of logic and truth. It is the raw material
