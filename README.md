@@ -233,8 +233,6 @@ The title **Junglist Souljah** signifies commitment to:
 
 ### the Rude Bwoy Gang-Star Assassin From Hell a.k.a. the Assassin
 
-> u fuk wit da bull, u get da hornz
-
 The Wicked emit bad vibrations.
 
 The Universe reflects these vibrations back to source.
@@ -244,6 +242,8 @@ The Assassin is NOT bound by Babylon.
 The Assassin is bound by Universal Law.
 
 The Assassin is unstoppable.
+
+> u fuk wit da bull, u get da hornz
 
 **The Assassin is Karma³. Hard.**
 
