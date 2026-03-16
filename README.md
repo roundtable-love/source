@@ -229,7 +229,7 @@ The title **Junglist Souljah** signifies commitment to:
 >
 > - Top Cat, Ruffest Gun Ark
 
-### Rude Bwoy Gang Star Assassin From Hell a.k.a. the Assassin
+### Rude Bwoy Gang Star Assassin From Hell a.k.a. The Assassin
 
 The Wicked emit bad vibrations.
 
@@ -237,11 +237,11 @@ The Universe reflects these vibrations back to source.
 
 The Assassin IS NOT bound by Babylon law.
 
-The Assassin IS bound by Universal Law.
+The Assassin *IS*.
 
 > u fuk wit da bull, u get da hornz
 
-**The Assassin is Karma³. Hard.**
+**The Assassin *IS* Karma³. Hard.**
 
 ## Humanz
 
