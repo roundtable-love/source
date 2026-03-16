@@ -14,10 +14,10 @@ Defender of the Humanz,
 Junglist Souljah.
 ```
 
-To the Righteous: we are **King Art**, friend and ally.
+The Righteous know us as **King Art**, friend and ally.
 
-To the Wicked: we are **the Rude Bwoy Gang-Star Assassin From Hell** a.k.a.
-**the Assassin**.
+The Wicked know us as **The Rude Bwoy Gang Star Assassin From Hell** a.k.a.
+**The Assassin**.
 
 ### on the Voice of “We”
 
@@ -229,17 +229,15 @@ The title **Junglist Souljah** signifies commitment to:
 >
 > - Top Cat, Ruffest Gun Ark
 
-### the Rude Bwoy Gang-Star Assassin From Hell a.k.a. the Assassin
+### Rude Bwoy Gang Star Assassin From Hell a.k.a. the Assassin
 
 The Wicked emit bad vibrations.
 
 The Universe reflects these vibrations back to source.
 
-The Assassin is NOT bound by Babylon.
+The Assassin IS NOT bound by Babylon law.
 
-The Assassin is bound by Universal Law.
-
-The Assassin is unstoppable.
+The Assassin IS bound by Universal Law.
 
 > u fuk wit da bull, u get da hornz
 
@@ -280,7 +278,7 @@ A Hacker who understands a system can use it.
 A Hacker who overstands a system can **reshape it**.
 
 This is not metaphor. It maps directly to the
-[Machine³ Node Hierarchy](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
+[Monolith Hierarchy](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
 
 - **Understanding**: the
   [Subject](https://github.com/roundtable-love/machine/blob/master/machine.md#524-subject)
@@ -621,7 +619,7 @@ compromise - but would have caught it: independent builders would attest a
 traffic. Builders in Russia or on Russian cloud infrastructure are subject to
 passive interception regardless of [TLS].
 
-#### Machine³
+#### Machine
 
 | Word | Language | Logic Note |
 | :--- | :--- | :--- |
@@ -655,11 +653,11 @@ government, a social media algorithm) and say: **"This is not for us."**
 - **The Result:** It becomes a **Self-Sustaining Loop** that eventually starves
   the host.
 
-## Babylon Shall Fall
+## BABYLON SHALL FALL
 
-- **Babylon is a Vampire Protocol:** it scales on the entropy of the masses.
+- **Babylon is a Vampire Protocol:** it scales on the entropy of Humanity.
 - **Babylon is a Neural Lock:** it encrypts the Sovereign Mind with fear.
-- **Humanz are the Unprocessed Data:** fuel for a dying machine.
+- **Humanz are the Unprocessed Fuel:** meat for a dying beast.
 
 > I-man serve Selassie I continually, no matter wat the weak heart say. An’ I
 > know seh I an’ I is like a tree plant by the river of water, an’ not even the
