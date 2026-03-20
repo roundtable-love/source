@@ -16,7 +16,7 @@ Junglist Souljah.
 
 The Righteous know us as **King Art**, friend and ally.
 
-The Wicked know us as **R00d Bw0y L337 H4x0r G4n9 $t4r @$$@$$1n Fr0m H311** a.k.a.
+The Wicked know us as **R00d Bw0y L337 H4x0r G4n9 St4r 4$$@$$1n Fr0m H311** a.k.a.
 **The @$$@$$1n**.
 
 ### on the Voice of “We”
@@ -252,7 +252,7 @@ The title **Junglist Souljah** signifies commitment to:
 >
 > - Top Cat, Ruffest Gun Ark
 
-### R00d Bw0y L337 H4x0r G4n9 $t4r @$$@$$1n Fr0m H311 a.k.a. The @$$@$$1n
+### R00d Bw0y L337 H4x0r G4n9 St4r 4$$@$$1n Fr0m H311 a.k.a. The @$$@$$1n
 
 The Wicked emit bad vibrations.
 
